@@ -1,0 +1,299 @@
+1 [r18|g1|b14] [r0|g0|b8] [r18|g8|b7] [r17|g2|b6] [r15|g1|b4] [r11|g5|b1] false
+Game 1: 18 red, 8 green, 7 blue; 15 red, 4 blue, 1 green; 2 green, 17 red, 6 blue; 5 green, 1 blue, 11 red; 18 red, 1 green, 14 blue; 8 blue
+
+2 [r3|g15|b16] [r3|g12|b16] [r2|g8|b13] false
+Game 2: 16 blue, 12 green, 3 red; 13 blue, 2 red, 8 green; 15 green, 3 red, 16 blue
+
+3 [r7|g8|b9] [r4|g1|b7] [r15|g6|b0] false
+Game 3: 6 green, 15 red; 1 green, 4 red, 7 blue; 9 blue, 7 red, 8 green
+
+4 [r12|g1|b5] [r11|g1|b5] [r9|g0|b2] [r8|g0|b2] [r0|g0|b1] true
+Game 4: 8 red, 2 blue; 11 red, 5 blue, 1 green; 12 red, 1 green, 5 blue; 1 blue; 2 blue, 9 red
+
+5 [r4|g3|b17] [r5|g2|b15] [r0|g3|b10] [r3|g12|b9] [r6|g7|b4] [r6|g5|b3] false
+Game 5: 9 blue, 3 red, 12 green; 3 green, 4 red, 17 blue; 15 blue, 2 green, 5 red; 3 blue, 5 green, 6 red; 6 red, 4 blue, 7 green; 3 green, 10 blue
+
+6 [r5|g11|b4] [r12|g8|b3] [r15|g7|b3] [r9|g13|b2] [r11|g6|b2] [r9|g4|b2] false
+Game 6: 11 red, 2 blue, 6 green; 2 blue, 9 red, 4 green; 3 blue, 12 red, 8 green; 5 red, 11 green, 4 blue; 2 blue, 9 red, 13 green; 15 red, 3 blue, 7 green
+
+7 [r5|g3|b16] [r6|g1|b14] [r2|g9|b12] [r0|g9|b7] [r8|g9|b4] [r4|g8|b0] false
+Game 7: 2 red, 9 green, 12 blue; 14 blue, 1 green, 6 red; 7 blue, 9 green; 9 green, 8 red, 4 blue; 5 red, 3 green, 16 blue; 4 red, 8 green
+
+8 [r11|g12|b1] [r0|g17|b0] [r1|g15|b0] [r4|g7|b0] [r11|g6|b0] false
+Game 8: 11 red, 12 green, 1 blue; 4 red, 7 green; 11 red, 6 green; 17 green; 15 green, 1 red
+
+9 [r1|g1|b12] [r1|g3|b9] [r12|g3|b6] [r14|g0|b1] false
+Game 9: 1 red, 1 green, 12 blue; 3 green, 12 red, 6 blue; 14 red, 1 blue; 9 blue, 1 red, 3 green
+
+10 [r3|g3|b8] [r1|g0|b4] [r0|g4|b3] [r4|g3|b3] [r3|g0|b2] true
+Game 10: 1 red, 4 blue; 3 blue, 4 green; 3 green, 3 red, 8 blue; 2 blue, 3 red; 3 green, 4 red, 3 blue
+
+11 [r1|g0|b8] [r9|g13|b6] [r1|g8|b1] true
+Game 11: 8 blue, 1 red; 8 green, 1 red, 1 blue; 13 green, 9 red, 6 blue
+
+12 [r2|g1|b2] [r0|g3|b1] [r3|g1|b0] true
+Game 12: 2 red, 2 blue, 1 green; 3 red, 1 green; 1 blue, 3 green
+
+13 [r1|g9|b7] [r0|g12|b4] [r2|g8|b2] [r3|g6|b0] [r3|g5|b0] true
+Game 13: 12 green, 4 blue; 2 red, 2 blue, 8 green; 6 green, 3 red; 3 red, 5 green; 9 green, 7 blue, 1 red
+
+14 [r9|g7|b11] [r12|g5|b10] [r3|g9|b7] [r1|g7|b0] true
+Game 14: 1 red, 7 green; 5 green, 12 red, 10 blue; 9 red, 11 blue, 7 green; 7 blue, 3 red, 9 green
+
+15 [r0|g7|b1] [r1|g2|b1] [r0|g7|b0] true
+Game 15: 7 green, 1 blue; 1 red, 2 green, 1 blue; 7 green
+
+16 [r2|g4|b2] [r0|g2|b2] [r0|g1|b1] true
+Game 16: 1 green, 1 blue; 2 blue, 4 green, 2 red; 2 green, 2 blue
+
+17 [r6|g11|b7] [r7|g4|b6] [r4|g13|b1] true
+Game 17: 6 red, 11 green, 7 blue; 1 blue, 13 green, 4 red; 4 green, 6 blue, 7 red
+
+18 [r14|g1|b18] [r7|g1|b16] [r7|g0|b11] [r2|g0|b8] false
+Game 18: 2 red, 8 blue; 7 red, 11 blue; 1 green, 16 blue, 7 red; 18 blue, 1 green, 14 red
+
+19 [r3|g1|b2] [r2|g0|b2] [r6|g1|b0] true
+Game 19: 2 red, 2 blue; 1 green, 6 red; 1 green, 3 red, 2 blue
+
+20 [r8|g12|b5] [r2|g9|b3] [r6|g5|b2] [r4|g9|b1] true
+Game 20: 6 red, 2 blue, 5 green; 4 red, 1 blue, 9 green; 3 blue, 2 red, 9 green; 8 red, 12 green, 5 blue
+
+21 [r6|g0|b7] [r18|g1|b6] [r12|g2|b5] [r11|g3|b3] [r16|g2|b3] [r13|g0|b2] false
+Game 21: 6 red, 7 blue; 3 blue, 16 red, 2 green; 2 blue, 13 red; 3 blue, 11 red, 3 green; 1 green, 18 red, 6 blue; 12 red, 5 blue, 2 green
+
+22 [r9|g14|b6] [r16|g10|b2] [r1|g18|b1] [r13|g5|b1] [r18|g4|b0] [r6|g0|b0] false
+Game 22: 9 red, 6 blue, 14 green; 1 blue, 5 green, 13 red; 6 red; 18 red, 4 green; 2 blue, 10 green, 16 red; 1 red, 18 green, 1 blue
+
+23 [r4|g4|b5] [r4|g6|b3] [r1|g5|b3] [r2|g9|b1] true
+Game 23: 6 green, 4 red, 3 blue; 1 blue, 2 red, 9 green; 5 green, 1 red, 3 blue; 5 blue, 4 red, 4 green
+
+24 [r0|g7|b13] [r4|g7|b9] [r0|g7|b9] [r4|g1|b4] [r1|g5|b2] true
+Game 24: 1 red, 5 green, 2 blue; 4 red, 7 green, 9 blue; 9 blue, 7 green; 7 green, 13 blue; 4 blue, 1 green, 4 red
+
+25 [r10|g11|b13] [r19|g10|b13] [r16|g4|b12] [r7|g5|b9] [r15|g5|b8] [r3|g10|b1] false
+Game 25: 13 blue, 10 red, 11 green; 10 green, 1 blue, 3 red; 15 red, 5 green, 8 blue; 19 red, 10 green, 13 blue; 12 blue, 4 green, 16 red; 7 red, 5 green, 9 blue
+
+26 [r20|g4|b18] [r17|g9|b15] [r1|g8|b15] [r20|g12|b6] [r8|g10|b5] [r19|g6|b3] false
+Game 26: 20 red, 6 blue, 12 green; 15 blue, 17 red, 9 green; 19 red, 6 green, 3 blue; 8 green, 1 red, 15 blue; 10 green, 8 red, 5 blue; 4 green, 20 red, 18 blue
+
+27 [r2|g6|b8] [r0|g5|b5] [r7|g3|b2] [r4|g0|b2] true
+Game 27: 2 blue, 3 green, 7 red; 2 blue, 4 red; 5 blue, 5 green; 8 blue, 6 green, 2 red
+
+28 [r3|g0|b3] [r1|g0|b2] [r6|g1|b0] [r4|g1|b0] [r2|g0|b0] true
+Game 28: 1 green, 6 red; 3 red, 3 blue; 1 green, 4 red; 1 red, 2 blue; 2 red
+
+29 [r0|g1|b8] [r1|g0|b7] [r3|g6|b5] [r6|g0|b2] [r2|g3|b0] true
+Game 29: 8 blue, 1 green; 7 blue, 1 red; 6 red, 2 blue; 2 red, 3 green; 3 red, 6 green, 5 blue
+
+30 [r10|g17|b11] [r14|g12|b9] [r2|g16|b8] [r7|g18|b5] [r11|g9|b3] [r1|g18|b1] false
+Game 30: 11 blue, 17 green, 10 red; 9 blue, 12 green, 14 red; 16 green, 2 red, 8 blue; 18 green, 1 red, 1 blue; 5 blue, 7 red, 18 green; 9 green, 3 blue, 11 red
+
+31 [r3|g3|b7] [r0|g19|b5] [r0|g18|b5] [r0|g13|b5] [r3|g2|b4] [r3|g15|b2] false
+Game 31: 5 blue, 13 green; 2 green, 3 red, 4 blue; 3 red, 15 green, 2 blue; 5 blue, 19 green; 5 blue, 18 green; 3 green, 7 blue, 3 red
+
+32 [r13|g4|b6] [r12|g2|b3] [r16|g2|b1] false
+Game 32: 12 red, 2 green, 3 blue; 2 green, 16 red, 1 blue; 13 red, 4 green, 6 blue
+
+33 [r3|g6|b14] [r0|g20|b13] [r3|g18|b8] [r4|g15|b2] [r1|g19|b0] false
+Game 33: 18 green, 8 blue, 3 red; 15 green, 2 blue, 4 red; 14 blue, 3 red, 6 green; 20 green, 13 blue; 1 red, 19 green
+
+34 [r1|g6|b13] [r2|g8|b10] [r1|g5|b7] [r2|g1|b7] [r2|g1|b4] [r1|g1|b3] true
+Game 34: 1 green, 7 blue, 2 red; 8 green, 10 blue, 2 red; 3 blue, 1 green, 1 red; 6 green, 13 blue, 1 red; 1 green, 4 blue, 2 red; 1 red, 5 green, 7 blue
+
+35 [r8|g0|b7] [r7|g0|b4] [r3|g0|b4] [r3|g0|b2] [r3|g1|b1] true
+Game 35: 7 blue, 8 red; 2 blue, 3 red; 4 blue, 3 red; 7 red, 4 blue; 1 blue, 1 green, 3 red
+
+36 [r2|g1|b1] [r1|g8|b0] [r1|g6|b0] [r8|g3|b0] true
+Game 36: 1 red, 8 green; 1 red, 6 green; 3 green, 8 red; 1 blue, 2 red, 1 green
+
+37 [r14|g0|b3] [r13|g0|b3] [r3|g0|b3] [r7|g0|b2] [r12|g1|b1] [r5|g1|b0] false
+Game 37: 3 blue, 13 red; 2 blue, 7 red; 5 red, 1 green; 3 red, 3 blue; 1 blue, 12 red, 1 green; 14 red, 3 blue
+
+38 [r16|g9|b13] [r18|g12|b7] [r11|g6|b1] [r1|g9|b0] false
+Game 38: 7 blue, 18 red, 12 green; 11 red, 6 green, 1 blue; 9 green, 1 red; 9 green, 13 blue, 16 red
+
+39 [r7|g4|b5] [r10|g3|b3] [r12|g3|b2] [r0|g1|b2] [r5|g0|b2] [r1|g2|b0] true
+Game 39: 12 red, 3 green, 2 blue; 3 blue, 3 green, 10 red; 2 blue, 5 red; 2 blue, 1 green; 5 blue, 4 green, 7 red; 2 green, 1 red
+
+40 [r1|g7|b11] [r1|g5|b7] [r3|g14|b5] [r1|g8|b4] [r0|g14|b2] [r1|g10|b2] false
+Game 40: 1 red, 7 blue, 5 green; 1 red, 4 blue, 8 green; 3 red, 5 blue, 14 green; 10 green, 2 blue, 1 red; 11 blue, 7 green, 1 red; 14 green, 2 blue
+
+41 [r1|g2|b15] [r0|g13|b7] [r0|g10|b6] [r5|g12|b4] [r5|g8|b3] false
+Game 41: 8 green, 5 red, 3 blue; 5 red, 4 blue, 12 green; 10 green, 6 blue; 13 green, 7 blue; 1 red, 2 green, 15 blue
+
+42 [r2|g15|b1] [r12|g12|b1] [r17|g5|b1] [r16|g9|b0] false
+Game 42: 17 red, 1 blue, 5 green; 9 green, 16 red; 1 blue, 15 green, 2 red; 1 blue, 12 red, 12 green
+
+43 [r3|g10|b8] [r1|g2|b8] [r0|g12|b5] true
+Game 43: 12 green, 5 blue; 3 red, 8 blue, 10 green; 8 blue, 2 green, 1 red
+
+44 [r19|g4|b3] [r4|g2|b3] [r7|g1|b2] [r1|g3|b1] [r10|g0|b1] [r0|g0|b1] false
+Game 44: 1 green, 7 red, 2 blue; 1 blue, 10 red; 4 green, 3 blue, 19 red; 1 blue, 3 green, 1 red; 1 blue; 4 red, 2 green, 3 blue
+
+45 [r16|g9|b13] [r16|g1|b12] [r3|g7|b8] false
+Game 45: 16 red, 12 blue, 1 green; 13 blue, 16 red, 9 green; 7 green, 3 red, 8 blue
+
+46 [r1|g17|b6] [r1|g3|b6] [r0|g2|b4] [r0|g12|b1] false
+Game 46: 1 red, 17 green, 6 blue; 6 blue, 1 red, 3 green; 12 green, 1 blue; 4 blue, 2 green
+
+47 [r9|g6|b17] [r12|g2|b15] [r5|g3|b11] [r2|g2|b9] [r2|g3|b6] false
+Game 47: 2 green, 12 red, 15 blue; 9 blue, 2 green, 2 red; 3 green, 6 blue, 2 red; 11 blue, 3 green, 5 red; 6 green, 9 red, 17 blue
+
+48 [r5|g5|b11] [r2|g2|b5] [r6|g0|b5] [r14|g7|b4] false
+Game 48: 5 blue, 6 red; 7 green, 14 red, 4 blue; 2 green, 5 blue, 2 red; 11 blue, 5 red, 5 green
+
+49 [r3|g16|b14] [r2|g11|b12] [r4|g9|b12] [r3|g17|b8] [r4|g7|b7] false
+Game 49: 7 green, 7 blue, 4 red; 11 green, 12 blue, 2 red; 12 blue, 4 red, 9 green; 3 red, 8 blue, 17 green; 16 green, 3 red, 14 blue
+
+50 [r12|g14|b18] [r4|g5|b10] [r14|g7|b5] false
+Game 50: 5 green, 4 red, 10 blue; 7 green, 14 red, 5 blue; 12 red, 18 blue, 14 green
+
+51 [r0|g3|b5] [r2|g10|b4] [r0|g12|b3] true
+Game 51: 12 green, 3 blue; 10 green, 4 blue, 2 red; 3 green, 5 blue
+
+52 [r6|g20|b18] [r6|g2|b15] [r6|g12|b7] [r11|g1|b5] false
+Game 52: 12 green, 6 red, 7 blue; 20 green, 6 red, 18 blue; 1 green, 5 blue, 11 red; 2 green, 15 blue, 6 red
+
+53 [r6|g2|b5] [r10|g6|b4] [r6|g3|b4] [r14|g13|b1] [r0|g7|b1] false
+Game 53: 6 red, 2 green, 5 blue; 13 green, 1 blue, 14 red; 7 green, 1 blue; 3 green, 4 blue, 6 red; 10 red, 6 green, 4 blue
+
+54 [r2|g7|b9] [r2|g3|b5] [r1|g0|b4] [r3|g4|b2] [r1|g9|b1] true
+Game 54: 4 blue, 1 red; 1 red, 1 blue, 9 green; 3 red, 2 blue, 4 green; 3 green, 2 red, 5 blue; 9 blue, 2 red, 7 green
+
+55 [r4|g0|b7] [r0|g0|b7] [r1|g0|b6] [r3|g1|b3] true
+Game 55: 7 blue; 6 blue, 1 red; 4 red, 7 blue; 3 red, 3 blue, 1 green
+
+56 [r3|g1|b11] [r3|g0|b10] [r3|g4|b8] [r0|g2|b8] [r0|g2|b7] [r2|g1|b0] true
+Game 56: 2 green, 7 blue; 3 red, 10 blue; 1 green, 2 red; 3 red, 8 blue, 4 green; 1 green, 11 blue, 3 red; 2 green, 8 blue
+
+57 [r1|g4|b15] [r2|g1|b9] [r1|g1|b1] [r3|g1|b0] false
+Game 57: 3 red, 1 green; 1 green, 1 red, 1 blue; 1 red, 4 green, 15 blue; 9 blue, 2 red, 1 green
+
+58 [r5|g4|b14] [r13|g5|b12] [r15|g2|b9] [r12|g15|b7] [r0|g6|b2] false
+Game 58: 12 blue, 13 red, 5 green; 2 blue, 6 green; 12 red, 15 green, 7 blue; 5 red, 4 green, 14 blue; 15 red, 2 green, 9 blue
+
+59 [r4|g2|b6] [r0|g5|b5] [r6|g3|b5] [r3|g6|b4] [r10|g7|b3] true
+Game 59: 5 green, 5 blue; 4 red, 6 blue, 2 green; 5 blue, 3 green, 6 red; 3 red, 6 green, 4 blue; 3 blue, 7 green, 10 red
+
+60 [r0|g3|b6] [r0|g0|b6] [r1|g3|b1] [r1|g0|b0] true
+Game 60: 1 red, 1 blue, 3 green; 1 red; 3 green, 6 blue; 6 blue
+
+61 [r5|g2|b11] [r0|g7|b7] [r5|g4|b5] [r1|g7|b1] [r4|g3|b1] true
+Game 61: 7 green, 1 red, 1 blue; 4 red, 3 green, 1 blue; 7 blue, 7 green; 11 blue, 2 green, 5 red; 5 red, 4 green, 5 blue
+
+62 [r2|g15|b4] [r2|g17|b3] [r1|g2|b3] [r2|g1|b3] [r1|g17|b0] [r0|g5|b0] false
+Game 62: 17 green, 2 red, 3 blue; 1 red, 3 blue, 2 green; 1 green, 3 blue, 2 red; 1 red, 17 green; 2 red, 15 green, 4 blue; 5 green
+
+63 [r2|g1|b13] [r10|g0|b9] [r4|g2|b3] [r5|g2|b1] true
+Game 63: 2 green, 4 red, 3 blue; 9 blue, 10 red; 1 green, 13 blue, 2 red; 2 green, 1 blue, 5 red
+
+64 [r13|g8|b11] [r6|g0|b8] [r3|g5|b6] [r11|g1|b3] false
+Game 64: 6 red, 8 blue; 3 red, 6 blue, 5 green; 13 red, 11 blue, 8 green; 11 red, 3 blue, 1 green
+
+65 [r8|g2|b5] [r5|g0|b4] [r3|g6|b3] [r11|g3|b3] [r2|g4|b1] true
+Game 65: 4 green, 1 blue, 2 red; 3 blue, 3 green, 11 red; 6 green, 3 blue, 3 red; 5 red, 4 blue; 8 red, 5 blue, 2 green
+
+66 [r16|g16|b2] [r9|g19|b1] [r2|g4|b1] [r10|g11|b0] [r13|g10|b0] [r7|g7|b0] false
+Game 66: 10 green, 13 red; 1 blue, 2 red, 4 green; 7 red, 7 green; 19 green, 9 red, 1 blue; 16 green, 16 red, 2 blue; 10 red, 11 green
+
+67 [r19|g0|b6] [r1|g4|b5] [r2|g5|b4] [r2|g4|b3] false
+Game 67: 3 blue, 4 green, 2 red; 6 blue, 19 red; 4 blue, 2 red, 5 green; 4 green, 5 blue, 1 red
+
+68 [r15|g7|b13] [r8|g6|b12] [r0|g8|b5] [r20|g0|b5] false
+Game 68: 13 blue, 15 red, 7 green; 5 blue, 20 red; 6 green, 12 blue, 8 red; 5 blue, 8 green
+
+69 [r3|g13|b1] [r13|g13|b0] [r9|g9|b0] [r0|g8|b0] false
+Game 69: 13 red, 13 green; 13 green, 3 red, 1 blue; 8 green; 9 green, 9 red
+
+70 [r11|g2|b8] [r5|g3|b7] [r13|g3|b6] [r12|g0|b2] [r15|g3|b1] false
+Game 70: 8 blue, 11 red, 2 green; 12 red, 2 blue; 13 red, 6 blue, 3 green; 7 blue, 3 green, 5 red; 15 red, 1 blue, 3 green
+
+71 [r2|g9|b6] [r7|g9|b4] [r0|g2|b4] [r7|g9|b0] true
+Game 71: 7 red, 9 green; 4 blue, 9 green, 7 red; 4 blue, 2 green; 6 blue, 2 red, 9 green
+
+72 [r0|g1|b14] [r4|g1|b9] [r8|g2|b6] true
+Game 72: 14 blue, 1 green; 4 red, 1 green, 9 blue; 6 blue, 8 red, 2 green
+
+73 [r2|g9|b10] [r2|g1|b10] [r1|g0|b8] [r0|g16|b5] [r0|g17|b0] false
+Game 73: 17 green; 10 blue, 2 red, 9 green; 1 green, 10 blue, 2 red; 8 blue, 1 red; 5 blue, 16 green
+
+74 [r6|g12|b5] [r2|g8|b5] [r2|g10|b4] [r2|g3|b4] [r5|g2|b2] [r1|g6|b1] true
+Game 74: 12 green, 6 red, 5 blue; 2 red, 4 blue, 10 green; 3 green, 4 blue, 2 red; 8 green, 2 red, 5 blue; 5 red, 2 blue, 2 green; 6 green, 1 red, 1 blue
+
+75 [r7|g5|b18] [r0|g16|b15] [r0|g7|b15] [r0|g9|b13] [r7|g4|b13] [r0|g19|b4] false
+Game 75: 4 blue, 19 green; 15 blue, 7 green; 18 blue, 5 green, 7 red; 16 green, 15 blue; 7 red, 4 green, 13 blue; 9 green, 13 blue
+
+76 [r1|g7|b13] [r5|g0|b13] [r1|g2|b7] true
+Game 76: 1 red, 2 green, 7 blue; 13 blue, 7 green, 1 red; 13 blue, 5 red
+
+77 [r3|g6|b10] [r2|g1|b10] [r1|g7|b0] true
+Game 77: 3 red, 10 blue, 6 green; 1 green, 2 red, 10 blue; 7 green, 1 red
+
+78 [r8|g5|b6] [r10|g3|b6] [r10|g6|b4] [r0|g11|b2] [r6|g5|b0] true
+Game 78: 11 green, 2 blue; 6 blue, 8 red, 5 green; 10 red, 6 green, 4 blue; 6 blue, 3 green, 10 red; 5 green, 6 red
+
+79 [r4|g1|b6] [r4|g2|b3] [r4|g1|b2] [r1|g2|b0] [r1|g0|b0] true
+Game 79: 4 red, 6 blue, 1 green; 1 red; 2 green, 3 blue, 4 red; 4 red, 1 green, 2 blue; 2 green, 1 red
+
+80 [r7|g3|b1] [r7|g1|b0] [r2|g1|b0] [r1|g1|b0] true
+Game 80: 2 red, 1 green; 1 red, 1 green; 7 red, 1 green; 1 blue, 7 red, 3 green
+
+81 [r15|g4|b1] [r13|g3|b1] [r8|g3|b1] [r12|g2|b1] [r13|g4|b0] [r12|g2|b0] false
+Game 81: 1 blue, 15 red, 4 green; 2 green, 12 red; 4 green, 13 red; 1 blue, 3 green, 13 red; 12 red, 2 green, 1 blue; 3 green, 8 red, 1 blue
+
+82 [r10|g7|b2] [r14|g1|b2] [r3|g7|b1] [r18|g4|b1] [r5|g4|b0] [r13|g0|b0] false
+Game 82: 18 red, 4 green, 1 blue; 14 red, 1 green, 2 blue; 10 red, 2 blue, 7 green; 13 red; 3 red, 7 green, 1 blue; 5 red, 4 green
+
+83 [r1|g9|b19] [r2|g3|b14] [r2|g13|b12] [r5|g13|b8] [r4|g10|b5] false
+Game 83: 4 red, 10 green, 5 blue; 2 red, 12 blue, 13 green; 19 blue, 9 green, 1 red; 2 red, 14 blue, 3 green; 13 green, 8 blue, 5 red
+
+84 [r7|g9|b12] [r13|g8|b11] [r12|g3|b11] [r8|g1|b11] [r7|g7|b10] [r14|g1|b1] false
+Game 84: 12 blue, 7 red, 9 green; 1 blue, 1 green, 14 red; 1 green, 8 red, 11 blue; 11 blue, 12 red, 3 green; 11 blue, 8 green, 13 red; 7 green, 7 red, 10 blue
+
+85 [r3|g13|b5] [r19|g11|b4] [r9|g11|b4] [r5|g4|b2] [r10|g0|b2] [r5|g5|b0] false
+Game 85: 10 red, 2 blue; 11 green, 9 red, 4 blue; 3 red, 5 blue, 13 green; 5 red, 5 green; 5 red, 2 blue, 4 green; 11 green, 4 blue, 19 red
+
+86 [r1|g8|b1] [r7|g6|b1] [r2|g6|b1] [r3|g4|b1] [r2|g9|b0] [r4|g1|b0] true
+Game 86: 1 blue, 6 green, 2 red; 1 red, 1 blue, 8 green; 3 red, 1 blue, 4 green; 1 green, 4 red; 9 green, 2 red; 6 green, 7 red, 1 blue
+
+87 [r4|g8|b8] [r1|g4|b3] [r5|g10|b2] [r3|g13|b0] true
+Game 87: 8 green, 8 blue, 4 red; 5 red, 2 blue, 10 green; 3 red, 13 green; 1 red, 3 blue, 4 green
+
+88 [r3|g9|b3] [r0|g15|b2] [r2|g9|b0] false
+Game 88: 3 blue, 9 green, 3 red; 2 blue, 15 green; 2 red, 9 green
+
+89 [r4|g7|b16] [r9|g6|b15] [r7|g2|b10] false
+Game 89: 9 red, 6 green, 15 blue; 10 blue, 7 red, 2 green; 7 green, 16 blue, 4 red
+
+90 [r8|g7|b1] [r1|g7|b1] [r3|g1|b1] true
+Game 90: 1 red, 1 blue, 7 green; 7 green, 1 blue, 8 red; 3 red, 1 blue, 1 green
+
+91 [r2|g8|b8] [r2|g1|b6] [r4|g11|b4] [r4|g4|b3] [r5|g0|b3] true
+Game 91: 1 green, 2 red, 6 blue; 4 green, 4 red, 3 blue; 4 red, 11 green, 4 blue; 3 blue, 5 red; 8 green, 2 red, 8 blue
+
+92 [r2|g2|b3] [r2|g0|b3] [r9|g3|b0] true
+Game 92: 2 red, 3 blue; 3 blue, 2 green, 2 red; 9 red, 3 green
+
+93 [r4|g9|b7] [r3|g2|b5] [r1|g2|b5] [r0|g5|b2] true
+Game 93: 2 blue, 5 green; 2 green, 5 blue, 3 red; 2 green, 5 blue, 1 red; 7 blue, 4 red, 9 green
+
+94 [r1|g14|b9] [r1|g16|b4] [r0|g11|b2] [r0|g6|b0] false
+Game 94: 1 red, 9 blue, 14 green; 6 green; 2 blue, 11 green; 4 blue, 16 green, 1 red
+
+95 [r4|g6|b4] [r7|g10|b2] [r3|g3|b2] true
+Game 95: 10 green, 2 blue, 7 red; 4 blue, 4 red, 6 green; 3 red, 2 blue, 3 green
+
+96 [r14|g2|b6] [r1|g0|b5] [r3|g3|b1] [r15|g7|b0] [r10|g3|b0] [r12|g0|b0] false
+Game 96: 12 red; 3 green, 10 red; 6 blue, 14 red, 2 green; 7 green, 15 red; 3 green, 3 red, 1 blue; 5 blue, 1 red
+
+97 [r3|g1|b1] [r4|g1|b0] [r3|g1|b0] true
+Game 97: 3 red, 1 green, 1 blue; 1 green, 3 red; 4 red, 1 green
+
+98 [r11|g8|b11] [r2|g9|b6] [r4|g5|b6] [r0|g6|b4] [r11|g14|b2] false
+Game 98: 4 red, 5 green, 6 blue; 2 red, 9 green, 6 blue; 2 blue, 11 red, 14 green; 6 green, 4 blue; 11 blue, 11 red, 8 green
+
+99 [r0|g2|b20] [r3|g0|b12] [r0|g0|b12] [r2|g3|b10] [r0|g0|b7] [r3|g2|b0] false
+Game 99: 2 green, 20 blue; 12 blue; 3 red, 12 blue; 7 blue; 3 green, 10 blue, 2 red; 3 red, 2 green
+
+100 [r12|g8|b2] [r5|g10|b1] [r2|g4|b0] [r13|g2|b0] [r7|g2|b0] false
+Game 100: 2 blue, 8 green, 12 red; 2 green, 13 red; 2 red, 4 green; 2 green, 7 red; 10 green, 5 red, 1 blue
