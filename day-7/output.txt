@@ -1,0 +1,5002 @@
+[
+    {
+        "hand": "23QAK",
+        "bet": "174",
+        "highest": 1
+    },
+    {
+        "hand": "23K59",
+        "bet": "604",
+        "highest": 1
+    },
+    {
+        "hand": "253A7",
+        "bet": "500",
+        "highest": 1
+    },
+    {
+        "hand": "2574A",
+        "bet": "580",
+        "highest": 1
+    },
+    {
+        "hand": "2643K",
+        "bet": "989",
+        "highest": 1
+    },
+    {
+        "hand": "29Q38",
+        "bet": "865",
+        "highest": 1
+    },
+    {
+        "hand": "29K3T",
+        "bet": "447",
+        "highest": 1
+    },
+    {
+        "hand": "29KTQ",
+        "bet": "69",
+        "highest": 1
+    },
+    {
+        "hand": "29A5K",
+        "bet": "931",
+        "highest": 1
+    },
+    {
+        "hand": "2QA67",
+        "bet": "394",
+        "highest": 1
+    },
+    {
+        "hand": "2A368",
+        "bet": "261",
+        "highest": 1
+    },
+    {
+        "hand": "2A36T",
+        "bet": "497",
+        "highest": 1
+    },
+    {
+        "hand": "2AT7K",
+        "bet": "517",
+        "highest": 1
+    },
+    {
+        "hand": "3478A",
+        "bet": "526",
+        "highest": 1
+    },
+    {
+        "hand": "36A95",
+        "bet": "805",
+        "highest": 1
+    },
+    {
+        "hand": "3726K",
+        "bet": "552",
+        "highest": 1
+    },
+    {
+        "hand": "37K8T",
+        "bet": "137",
+        "highest": 1
+    },
+    {
+        "hand": "38TA9",
+        "bet": "299",
+        "highest": 1
+    },
+    {
+        "hand": "396A7",
+        "bet": "213",
+        "highest": 1
+    },
+    {
+        "hand": "3985T",
+        "bet": "813",
+        "highest": 1
+    },
+    {
+        "hand": "3T57K",
+        "bet": "634",
+        "highest": 1
+    },
+    {
+        "hand": "3T867",
+        "bet": "715",
+        "highest": 1
+    },
+    {
+        "hand": "3Q294",
+        "bet": "911",
+        "highest": 1
+    },
+    {
+        "hand": "3Q865",
+        "bet": "197",
+        "highest": 1
+    },
+    {
+        "hand": "3K562",
+        "bet": "196",
+        "highest": 1
+    },
+    {
+        "hand": "3K9Q5",
+        "bet": "784",
+        "highest": 1
+    },
+    {
+        "hand": "3KT28",
+        "bet": "228",
+        "highest": 1
+    },
+    {
+        "hand": "3AT92",
+        "bet": "160",
+        "highest": 1
+    },
+    {
+        "hand": "3AQ52",
+        "bet": "796",
+        "highest": 1
+    },
+    {
+        "hand": "3AK85",
+        "bet": "926",
+        "highest": 1
+    },
+    {
+        "hand": "45T9Q",
+        "bet": "386",
+        "highest": 1
+    },
+    {
+        "hand": "45AQ2",
+        "bet": "646",
+        "highest": 1
+    },
+    {
+        "hand": "46785",
+        "bet": "741",
+        "highest": 1
+    },
+    {
+        "hand": "4678Q",
+        "bet": "729",
+        "highest": 1
+    },
+    {
+        "hand": "483K7",
+        "bet": "962",
+        "highest": 1
+    },
+    {
+        "hand": "48579",
+        "bet": "605",
+        "highest": 1
+    },
+    {
+        "hand": "495TA",
+        "bet": "603",
+        "highest": 1
+    },
+    {
+        "hand": "497Q3",
+        "bet": "576",
+        "highest": 1
+    },
+    {
+        "hand": "49KTA",
+        "bet": "293",
+        "highest": 1
+    },
+    {
+        "hand": "4T26Q",
+        "bet": "886",
+        "highest": 1
+    },
+    {
+        "hand": "4T6A8",
+        "bet": "401",
+        "highest": 1
+    },
+    {
+        "hand": "4T9A6",
+        "bet": "455",
+        "highest": 1
+    },
+    {
+        "hand": "4TAK8",
+        "bet": "871",
+        "highest": 1
+    },
+    {
+        "hand": "4QT3A",
+        "bet": "717",
+        "highest": 1
+    },
+    {
+        "hand": "4K973",
+        "bet": "658",
+        "highest": 1
+    },
+    {
+        "hand": "4A69Q",
+        "bet": "625",
+        "highest": 1
+    },
+    {
+        "hand": "534K9",
+        "bet": "706",
+        "highest": 1
+    },
+    {
+        "hand": "54397",
+        "bet": "881",
+        "highest": 1
+    },
+    {
+        "hand": "5639T",
+        "bet": "734",
+        "highest": 1
+    },
+    {
+        "hand": "5748T",
+        "bet": "673",
+        "highest": 1
+    },
+    {
+        "hand": "59A7Q",
+        "bet": "175",
+        "highest": 1
+    },
+    {
+        "hand": "5TK3A",
+        "bet": "941",
+        "highest": 1
+    },
+    {
+        "hand": "5Q238",
+        "bet": "743",
+        "highest": 1
+    },
+    {
+        "hand": "5QK28",
+        "bet": "942",
+        "highest": 1
+    },
+    {
+        "hand": "5QA6K",
+        "bet": "929",
+        "highest": 1
+    },
+    {
+        "hand": "675Q4",
+        "bet": "225",
+        "highest": 1
+    },
+    {
+        "hand": "67AT3",
+        "bet": "84",
+        "highest": 1
+    },
+    {
+        "hand": "6928K",
+        "bet": "752",
+        "highest": 1
+    },
+    {
+        "hand": "69TK5",
+        "bet": "269",
+        "highest": 1
+    },
+    {
+        "hand": "69A28",
+        "bet": "334",
+        "highest": 1
+    },
+    {
+        "hand": "6T897",
+        "bet": "54",
+        "highest": 1
+    },
+    {
+        "hand": "6Q378",
+        "bet": "328",
+        "highest": 1
+    },
+    {
+        "hand": "6Q792",
+        "bet": "327",
+        "highest": 1
+    },
+    {
+        "hand": "72T6K",
+        "bet": "598",
+        "highest": 1
+    },
+    {
+        "hand": "7526K",
+        "bet": "820",
+        "highest": 1
+    },
+    {
+        "hand": "783Q4",
+        "bet": "606",
+        "highest": 1
+    },
+    {
+        "hand": "78592",
+        "bet": "488",
+        "highest": 1
+    },
+    {
+        "hand": "785K2",
+        "bet": "1",
+        "highest": 1
+    },
+    {
+        "hand": "79K24",
+        "bet": "678",
+        "highest": 1
+    },
+    {
+        "hand": "7TK42",
+        "bet": "351",
+        "highest": 1
+    },
+    {
+        "hand": "7Q324",
+        "bet": "998",
+        "highest": 1
+    },
+    {
+        "hand": "7Q3T5",
+        "bet": "532",
+        "highest": 1
+    },
+    {
+        "hand": "7Q9AT",
+        "bet": "939",
+        "highest": 1
+    },
+    {
+        "hand": "7A368",
+        "bet": "326",
+        "highest": 1
+    },
+    {
+        "hand": "8239T",
+        "bet": "661",
+        "highest": 1
+    },
+    {
+        "hand": "8469T",
+        "bet": "442",
+        "highest": 1
+    },
+    {
+        "hand": "8596T",
+        "bet": "332",
+        "highest": 1
+    },
+    {
+        "hand": "85TQK",
+        "bet": "234",
+        "highest": 1
+    },
+    {
+        "hand": "867T2",
+        "bet": "804",
+        "highest": 1
+    },
+    {
+        "hand": "8T5A4",
+        "bet": "801",
+        "highest": 1
+    },
+    {
+        "hand": "8Q276",
+        "bet": "42",
+        "highest": 1
+    },
+    {
+        "hand": "8QK45",
+        "bet": "186",
+        "highest": 1
+    },
+    {
+        "hand": "8KA97",
+        "bet": "187",
+        "highest": 1
+    },
+    {
+        "hand": "92A5Q",
+        "bet": "246",
+        "highest": 1
+    },
+    {
+        "hand": "935Q7",
+        "bet": "650",
+        "highest": 1
+    },
+    {
+        "hand": "93QT2",
+        "bet": "899",
+        "highest": 1
+    },
+    {
+        "hand": "953K7",
+        "bet": "947",
+        "highest": 1
+    },
+    {
+        "hand": "95K83",
+        "bet": "841",
+        "highest": 1
+    },
+    {
+        "hand": "96Q43",
+        "bet": "824",
+        "highest": 1
+    },
+    {
+        "hand": "98534",
+        "bet": "359",
+        "highest": 1
+    },
+    {
+        "hand": "9Q362",
+        "bet": "993",
+        "highest": 1
+    },
+    {
+        "hand": "9Q368",
+        "bet": "731",
+        "highest": 1
+    },
+    {
+        "hand": "9Q38T",
+        "bet": "709",
+        "highest": 1
+    },
+    {
+        "hand": "9Q4A7",
+        "bet": "270",
+        "highest": 1
+    },
+    {
+        "hand": "9K65A",
+        "bet": "180",
+        "highest": 1
+    },
+    {
+        "hand": "9A43T",
+        "bet": "837",
+        "highest": 1
+    },
+    {
+        "hand": "9A8K5",
+        "bet": "766",
+        "highest": 1
+    },
+    {
+        "hand": "T4792",
+        "bet": "376",
+        "highest": 1
+    },
+    {
+        "hand": "T539A",
+        "bet": "974",
+        "highest": 1
+    },
+    {
+        "hand": "T6A78",
+        "bet": "685",
+        "highest": 1
+    },
+    {
+        "hand": "T7625",
+        "bet": "26",
+        "highest": 1
+    },
+    {
+        "hand": "T869K",
+        "bet": "173",
+        "highest": 1
+    },
+    {
+        "hand": "T9643",
+        "bet": "374",
+        "highest": 1
+    },
+    {
+        "hand": "T9762",
+        "bet": "60",
+        "highest": 1
+    },
+    {
+        "hand": "TK349",
+        "bet": "556",
+        "highest": 1
+    },
+    {
+        "hand": "TK8Q9",
+        "bet": "600",
+        "highest": 1
+    },
+    {
+        "hand": "TK936",
+        "bet": "923",
+        "highest": 1
+    },
+    {
+        "hand": "TAK85",
+        "bet": "460",
+        "highest": 1
+    },
+    {
+        "hand": "Q38TK",
+        "bet": "148",
+        "highest": 1
+    },
+    {
+        "hand": "Q3K96",
+        "bet": "833",
+        "highest": 1
+    },
+    {
+        "hand": "Q45K7",
+        "bet": "798",
+        "highest": 1
+    },
+    {
+        "hand": "Q4982",
+        "bet": "629",
+        "highest": 1
+    },
+    {
+        "hand": "Q5K83",
+        "bet": "666",
+        "highest": 1
+    },
+    {
+        "hand": "Q6235",
+        "bet": "585",
+        "highest": 1
+    },
+    {
+        "hand": "Q78K5",
+        "bet": "456",
+        "highest": 1
+    },
+    {
+        "hand": "Q7963",
+        "bet": "562",
+        "highest": 1
+    },
+    {
+        "hand": "Q8A54",
+        "bet": "343",
+        "highest": 1
+    },
+    {
+        "hand": "Q928T",
+        "bet": "759",
+        "highest": 1
+    },
+    {
+        "hand": "Q9345",
+        "bet": "768",
+        "highest": 1
+    },
+    {
+        "hand": "Q9845",
+        "bet": "812",
+        "highest": 1
+    },
+    {
+        "hand": "QK264",
+        "bet": "538",
+        "highest": 1
+    },
+    {
+        "hand": "K3948",
+        "bet": "627",
+        "highest": 1
+    },
+    {
+        "hand": "K397Q",
+        "bet": "861",
+        "highest": 1
+    },
+    {
+        "hand": "K43Q9",
+        "bet": "495",
+        "highest": 1
+    },
+    {
+        "hand": "K4823",
+        "bet": "954",
+        "highest": 1
+    },
+    {
+        "hand": "K4A67",
+        "bet": "815",
+        "highest": 1
+    },
+    {
+        "hand": "K56TA",
+        "bet": "794",
+        "highest": 1
+    },
+    {
+        "hand": "K5T6Q",
+        "bet": "599",
+        "highest": 1
+    },
+    {
+        "hand": "K5Q76",
+        "bet": "569",
+        "highest": 1
+    },
+    {
+        "hand": "K5AT4",
+        "bet": "356",
+        "highest": 1
+    },
+    {
+        "hand": "K7496",
+        "bet": "940",
+        "highest": 1
+    },
+    {
+        "hand": "K9TQ6",
+        "bet": "4",
+        "highest": 1
+    },
+    {
+        "hand": "KA4T7",
+        "bet": "542",
+        "highest": 1
+    },
+    {
+        "hand": "A3647",
+        "bet": "894",
+        "highest": 1
+    },
+    {
+        "hand": "A5628",
+        "bet": "427",
+        "highest": 1
+    },
+    {
+        "hand": "A6985",
+        "bet": "644",
+        "highest": 1
+    },
+    {
+        "hand": "A7Q96",
+        "bet": "209",
+        "highest": 1
+    },
+    {
+        "hand": "A9QK3",
+        "bet": "127",
+        "highest": 1
+    },
+    {
+        "hand": "AT327",
+        "bet": "361",
+        "highest": 1
+    },
+    {
+        "hand": "AQ5T9",
+        "bet": "686",
+        "highest": 1
+    },
+    {
+        "hand": "AQT42",
+        "bet": "543",
+        "highest": 1
+    },
+    {
+        "hand": "AQK85",
+        "bet": "919",
+        "highest": 1
+    },
+    {
+        "hand": "AK435",
+        "bet": "553",
+        "highest": 1
+    },
+    {
+        "hand": "J4863",
+        "bet": "636",
+        "highest": 2
+    },
+    {
+        "hand": "J4TA2",
+        "bet": "37",
+        "highest": 2
+    },
+    {
+        "hand": "J56K3",
+        "bet": "547",
+        "highest": 2
+    },
+    {
+        "hand": "J5762",
+        "bet": "453",
+        "highest": 2
+    },
+    {
+        "hand": "J6T39",
+        "bet": "222",
+        "highest": 2
+    },
+    {
+        "hand": "J826A",
+        "bet": "162",
+        "highest": 2
+    },
+    {
+        "hand": "J9Q26",
+        "bet": "857",
+        "highest": 2
+    },
+    {
+        "hand": "JQ84K",
+        "bet": "533",
+        "highest": 2
+    },
+    {
+        "hand": "JQK2A",
+        "bet": "248",
+        "highest": 2
+    },
+    {
+        "hand": "JK542",
+        "bet": "146",
+        "highest": 2
+    },
+    {
+        "hand": "JA238",
+        "bet": "70",
+        "highest": 2
+    },
+    {
+        "hand": "JA492",
+        "bet": "277",
+        "highest": 2
+    },
+    {
+        "hand": "JA572",
+        "bet": "391",
+        "highest": 2
+    },
+    {
+        "hand": "JA95T",
+        "bet": "220",
+        "highest": 2
+    },
+    {
+        "hand": "2J78A",
+        "bet": "917",
+        "highest": 2
+    },
+    {
+        "hand": "2J846",
+        "bet": "102",
+        "highest": 2
+    },
+    {
+        "hand": "2257A",
+        "bet": "438",
+        "highest": 2
+    },
+    {
+        "hand": "22T5Q",
+        "bet": "499",
+        "highest": 2
+    },
+    {
+        "hand": "22KQ7",
+        "bet": "574",
+        "highest": 2
+    },
+    {
+        "hand": "23Q82",
+        "bet": "710",
+        "highest": 2
+    },
+    {
+        "hand": "24A92",
+        "bet": "436",
+        "highest": 2
+    },
+    {
+        "hand": "25J86",
+        "bet": "410",
+        "highest": 2
+    },
+    {
+        "hand": "26J35",
+        "bet": "214",
+        "highest": 2
+    },
+    {
+        "hand": "265TJ",
+        "bet": "161",
+        "highest": 2
+    },
+    {
+        "hand": "28362",
+        "bet": "97",
+        "highest": 2
+    },
+    {
+        "hand": "28966",
+        "bet": "765",
+        "highest": 2
+    },
+    {
+        "hand": "28T4J",
+        "bet": "817",
+        "highest": 2
+    },
+    {
+        "hand": "28T44",
+        "bet": "195",
+        "highest": 2
+    },
+    {
+        "hand": "298K9",
+        "bet": "733",
+        "highest": 2
+    },
+    {
+        "hand": "2T8AJ",
+        "bet": "623",
+        "highest": 2
+    },
+    {
+        "hand": "2K69K",
+        "bet": "347",
+        "highest": 2
+    },
+    {
+        "hand": "2KQ33",
+        "bet": "878",
+        "highest": 2
+    },
+    {
+        "hand": "2KQ62",
+        "bet": "814",
+        "highest": 2
+    },
+    {
+        "hand": "2AJKT",
+        "bet": "981",
+        "highest": 2
+    },
+    {
+        "hand": "2A2KT",
+        "bet": "890",
+        "highest": 2
+    },
+    {
+        "hand": "3J27K",
+        "bet": "449",
+        "highest": 2
+    },
+    {
+        "hand": "3J56T",
+        "bet": "996",
+        "highest": 2
+    },
+    {
+        "hand": "3J84Q",
+        "bet": "721",
+        "highest": 2
+    },
+    {
+        "hand": "344T7",
+        "bet": "184",
+        "highest": 2
+    },
+    {
+        "hand": "34K2K",
+        "bet": "232",
+        "highest": 2
+    },
+    {
+        "hand": "3977K",
+        "bet": "435",
+        "highest": 2
+    },
+    {
+        "hand": "3TJ68",
+        "bet": "732",
+        "highest": 2
+    },
+    {
+        "hand": "3T53K",
+        "bet": "872",
+        "highest": 2
+    },
+    {
+        "hand": "3KJT5",
+        "bet": "454",
+        "highest": 2
+    },
+    {
+        "hand": "3K6TJ",
+        "bet": "922",
+        "highest": 2
+    },
+    {
+        "hand": "3K7K9",
+        "bet": "728",
+        "highest": 2
+    },
+    {
+        "hand": "4226T",
+        "bet": "207",
+        "highest": 2
+    },
+    {
+        "hand": "42989",
+        "bet": "155",
+        "highest": 2
+    },
+    {
+        "hand": "433AT",
+        "bet": "951",
+        "highest": 2
+    },
+    {
+        "hand": "458KK",
+        "bet": "149",
+        "highest": 2
+    },
+    {
+        "hand": "45A7A",
+        "bet": "888",
+        "highest": 2
+    },
+    {
+        "hand": "468JQ",
+        "bet": "350",
+        "highest": 2
+    },
+    {
+        "hand": "46TAJ",
+        "bet": "459",
+        "highest": 2
+    },
+    {
+        "hand": "47JT9",
+        "bet": "991",
+        "highest": 2
+    },
+    {
+        "hand": "47675",
+        "bet": "695",
+        "highest": 2
+    },
+    {
+        "hand": "47922",
+        "bet": "441",
+        "highest": 2
+    },
+    {
+        "hand": "47TKJ",
+        "bet": "285",
+        "highest": 2
+    },
+    {
+        "hand": "48859",
+        "bet": "842",
+        "highest": 2
+    },
+    {
+        "hand": "49342",
+        "bet": "46",
+        "highest": 2
+    },
+    {
+        "hand": "49T8J",
+        "bet": "615",
+        "highest": 2
+    },
+    {
+        "hand": "49K88",
+        "bet": "224",
+        "highest": 2
+    },
+    {
+        "hand": "4T77Q",
+        "bet": "443",
+        "highest": 2
+    },
+    {
+        "hand": "4T94K",
+        "bet": "742",
+        "highest": 2
+    },
+    {
+        "hand": "4K58J",
+        "bet": "66",
+        "highest": 2
+    },
+    {
+        "hand": "4A5KA",
+        "bet": "724",
+        "highest": 2
+    },
+    {
+        "hand": "5JQA2",
+        "bet": "816",
+        "highest": 2
+    },
+    {
+        "hand": "54J9K",
+        "bet": "212",
+        "highest": 2
+    },
+    {
+        "hand": "54883",
+        "bet": "560",
+        "highest": 2
+    },
+    {
+        "hand": "56T53",
+        "bet": "739",
+        "highest": 2
+    },
+    {
+        "hand": "57J6Q",
+        "bet": "414",
+        "highest": 2
+    },
+    {
+        "hand": "577KQ",
+        "bet": "53",
+        "highest": 2
+    },
+    {
+        "hand": "58TJ2",
+        "bet": "366",
+        "highest": 2
+    },
+    {
+        "hand": "5966T",
+        "bet": "980",
+        "highest": 2
+    },
+    {
+        "hand": "59T4J",
+        "bet": "809",
+        "highest": 2
+    },
+    {
+        "hand": "5QJT7",
+        "bet": "77",
+        "highest": 2
+    },
+    {
+        "hand": "5K336",
+        "bet": "877",
+        "highest": 2
+    },
+    {
+        "hand": "5A66K",
+        "bet": "282",
+        "highest": 2
+    },
+    {
+        "hand": "5AQ45",
+        "bet": "696",
+        "highest": 2
+    },
+    {
+        "hand": "6JA2T",
+        "bet": "255",
+        "highest": 2
+    },
+    {
+        "hand": "63T7J",
+        "bet": "311",
+        "highest": 2
+    },
+    {
+        "hand": "645J7",
+        "bet": "977",
+        "highest": 2
+    },
+    {
+        "hand": "65TQT",
+        "bet": "775",
+        "highest": 2
+    },
+    {
+        "hand": "6628A",
+        "bet": "611",
+        "highest": 2
+    },
+    {
+        "hand": "66A45",
+        "bet": "694",
+        "highest": 2
+    },
+    {
+        "hand": "67379",
+        "bet": "995",
+        "highest": 2
+    },
+    {
+        "hand": "6772Q",
+        "bet": "800",
+        "highest": 2
+    },
+    {
+        "hand": "6T576",
+        "bet": "509",
+        "highest": 2
+    },
+    {
+        "hand": "6Q268",
+        "bet": "525",
+        "highest": 2
+    },
+    {
+        "hand": "6Q3Q5",
+        "bet": "867",
+        "highest": 2
+    },
+    {
+        "hand": "7J268",
+        "bet": "172",
+        "highest": 2
+    },
+    {
+        "hand": "7J3A5",
+        "bet": "363",
+        "highest": 2
+    },
+    {
+        "hand": "7J82T",
+        "bet": "501",
+        "highest": 2
+    },
+    {
+        "hand": "72J85",
+        "bet": "448",
+        "highest": 2
+    },
+    {
+        "hand": "727A6",
+        "bet": "984",
+        "highest": 2
+    },
+    {
+        "hand": "72868",
+        "bet": "915",
+        "highest": 2
+    },
+    {
+        "hand": "72932",
+        "bet": "425",
+        "highest": 2
+    },
+    {
+        "hand": "72QQ5",
+        "bet": "362",
+        "highest": 2
+    },
+    {
+        "hand": "75K37",
+        "bet": "24",
+        "highest": 2
+    },
+    {
+        "hand": "75K52",
+        "bet": "948",
+        "highest": 2
+    },
+    {
+        "hand": "77T65",
+        "bet": "906",
+        "highest": 2
+    },
+    {
+        "hand": "78JQT",
+        "bet": "508",
+        "highest": 2
+    },
+    {
+        "hand": "788T2",
+        "bet": "783",
+        "highest": 2
+    },
+    {
+        "hand": "792J4",
+        "bet": "1000",
+        "highest": 2
+    },
+    {
+        "hand": "7998K",
+        "bet": "774",
+        "highest": 2
+    },
+    {
+        "hand": "7QJ2A",
+        "bet": "109",
+        "highest": 2
+    },
+    {
+        "hand": "8J376",
+        "bet": "565",
+        "highest": 2
+    },
+    {
+        "hand": "8J679",
+        "bet": "633",
+        "highest": 2
+    },
+    {
+        "hand": "83J56",
+        "bet": "245",
+        "highest": 2
+    },
+    {
+        "hand": "833K9",
+        "bet": "18",
+        "highest": 2
+    },
+    {
+        "hand": "84T77",
+        "bet": "839",
+        "highest": 2
+    },
+    {
+        "hand": "84ATT",
+        "bet": "657",
+        "highest": 2
+    },
+    {
+        "hand": "856J7",
+        "bet": "987",
+        "highest": 2
+    },
+    {
+        "hand": "8T598",
+        "bet": "747",
+        "highest": 2
+    },
+    {
+        "hand": "8K3J4",
+        "bet": "616",
+        "highest": 2
+    },
+    {
+        "hand": "8K79K",
+        "bet": "982",
+        "highest": 2
+    },
+    {
+        "hand": "8K98A",
+        "bet": "402",
+        "highest": 2
+    },
+    {
+        "hand": "8A842",
+        "bet": "592",
+        "highest": 2
+    },
+    {
+        "hand": "9J2Q7",
+        "bet": "346",
+        "highest": 2
+    },
+    {
+        "hand": "9J362",
+        "bet": "966",
+        "highest": 2
+    },
+    {
+        "hand": "9JAKT",
+        "bet": "56",
+        "highest": 2
+    },
+    {
+        "hand": "925J4",
+        "bet": "622",
+        "highest": 2
+    },
+    {
+        "hand": "92K55",
+        "bet": "229",
+        "highest": 2
+    },
+    {
+        "hand": "9336K",
+        "bet": "91",
+        "highest": 2
+    },
+    {
+        "hand": "937J5",
+        "bet": "504",
+        "highest": 2
+    },
+    {
+        "hand": "937K9",
+        "bet": "649",
+        "highest": 2
+    },
+    {
+        "hand": "94593",
+        "bet": "294",
+        "highest": 2
+    },
+    {
+        "hand": "946Q6",
+        "bet": "411",
+        "highest": 2
+    },
+    {
+        "hand": "94KQJ",
+        "bet": "260",
+        "highest": 2
+    },
+    {
+        "hand": "959T8",
+        "bet": "52",
+        "highest": 2
+    },
+    {
+        "hand": "95K75",
+        "bet": "93",
+        "highest": 2
+    },
+    {
+        "hand": "96747",
+        "bet": "198",
+        "highest": 2
+    },
+    {
+        "hand": "96K59",
+        "bet": "106",
+        "highest": 2
+    },
+    {
+        "hand": "96K9T",
+        "bet": "193",
+        "highest": 2
+    },
+    {
+        "hand": "96A2A",
+        "bet": "124",
+        "highest": 2
+    },
+    {
+        "hand": "9Q7TJ",
+        "bet": "429",
+        "highest": 2
+    },
+    {
+        "hand": "9A492",
+        "bet": "330",
+        "highest": 2
+    },
+    {
+        "hand": "TJ472",
+        "bet": "408",
+        "highest": 2
+    },
+    {
+        "hand": "T4TK9",
+        "bet": "513",
+        "highest": 2
+    },
+    {
+        "hand": "T6AJ5",
+        "bet": "912",
+        "highest": 2
+    },
+    {
+        "hand": "T6A8T",
+        "bet": "170",
+        "highest": 2
+    },
+    {
+        "hand": "T7323",
+        "bet": "80",
+        "highest": 2
+    },
+    {
+        "hand": "T737Q",
+        "bet": "437",
+        "highest": 2
+    },
+    {
+        "hand": "T7664",
+        "bet": "51",
+        "highest": 2
+    },
+    {
+        "hand": "T9J8K",
+        "bet": "928",
+        "highest": 2
+    },
+    {
+        "hand": "T9T42",
+        "bet": "961",
+        "highest": 2
+    },
+    {
+        "hand": "T9QTK",
+        "bet": "71",
+        "highest": 2
+    },
+    {
+        "hand": "TT2A5",
+        "bet": "946",
+        "highest": 2
+    },
+    {
+        "hand": "TT34K",
+        "bet": "471",
+        "highest": 2
+    },
+    {
+        "hand": "TQ454",
+        "bet": "249",
+        "highest": 2
+    },
+    {
+        "hand": "TKK68",
+        "bet": "302",
+        "highest": 2
+    },
+    {
+        "hand": "TA7A9",
+        "bet": "994",
+        "highest": 2
+    },
+    {
+        "hand": "Q27Q9",
+        "bet": "969",
+        "highest": 2
+    },
+    {
+        "hand": "Q34K3",
+        "bet": "870",
+        "highest": 2
+    },
+    {
+        "hand": "Q3KK2",
+        "bet": "746",
+        "highest": 2
+    },
+    {
+        "hand": "Q4648",
+        "bet": "103",
+        "highest": 2
+    },
+    {
+        "hand": "Q4KAA",
+        "bet": "893",
+        "highest": 2
+    },
+    {
+        "hand": "Q5266",
+        "bet": "352",
+        "highest": 2
+    },
+    {
+        "hand": "Q55AT",
+        "bet": "365",
+        "highest": 2
+    },
+    {
+        "hand": "Q5K57",
+        "bet": "641",
+        "highest": 2
+    },
+    {
+        "hand": "Q6J83",
+        "bet": "412",
+        "highest": 2
+    },
+    {
+        "hand": "Q6QK7",
+        "bet": "748",
+        "highest": 2
+    },
+    {
+        "hand": "Q8J96",
+        "bet": "683",
+        "highest": 2
+    },
+    {
+        "hand": "Q83J2",
+        "bet": "358",
+        "highest": 2
+    },
+    {
+        "hand": "Q83TT",
+        "bet": "371",
+        "highest": 2
+    },
+    {
+        "hand": "Q9AK9",
+        "bet": "486",
+        "highest": 2
+    },
+    {
+        "hand": "QT3K3",
+        "bet": "986",
+        "highest": 2
+    },
+    {
+        "hand": "QK366",
+        "bet": "792",
+        "highest": 2
+    },
+    {
+        "hand": "QKT4Q",
+        "bet": "519",
+        "highest": 2
+    },
+    {
+        "hand": "QAA96",
+        "bet": "380",
+        "highest": 2
+    },
+    {
+        "hand": "KJ27A",
+        "bet": "44",
+        "highest": 2
+    },
+    {
+        "hand": "KJ632",
+        "bet": "901",
+        "highest": 2
+    },
+    {
+        "hand": "K46QJ",
+        "bet": "41",
+        "highest": 2
+    },
+    {
+        "hand": "K5787",
+        "bet": "680",
+        "highest": 2
+    },
+    {
+        "hand": "K7664",
+        "bet": "34",
+        "highest": 2
+    },
+    {
+        "hand": "K7KA3",
+        "bet": "462",
+        "highest": 2
+    },
+    {
+        "hand": "K8922",
+        "bet": "584",
+        "highest": 2
+    },
+    {
+        "hand": "K94Q9",
+        "bet": "830",
+        "highest": 2
+    },
+    {
+        "hand": "K9566",
+        "bet": "185",
+        "highest": 2
+    },
+    {
+        "hand": "KT9T2",
+        "bet": "626",
+        "highest": 2
+    },
+    {
+        "hand": "KTTA6",
+        "bet": "348",
+        "highest": 2
+    },
+    {
+        "hand": "KQ488",
+        "bet": "851",
+        "highest": 2
+    },
+    {
+        "hand": "KK638",
+        "bet": "203",
+        "highest": 2
+    },
+    {
+        "hand": "KA42K",
+        "bet": "235",
+        "highest": 2
+    },
+    {
+        "hand": "AJ56Q",
+        "bet": "514",
+        "highest": 2
+    },
+    {
+        "hand": "A226K",
+        "bet": "472",
+        "highest": 2
+    },
+    {
+        "hand": "A298J",
+        "bet": "818",
+        "highest": 2
+    },
+    {
+        "hand": "A2989",
+        "bet": "89",
+        "highest": 2
+    },
+    {
+        "hand": "A427J",
+        "bet": "855",
+        "highest": 2
+    },
+    {
+        "hand": "A49KJ",
+        "bet": "825",
+        "highest": 2
+    },
+    {
+        "hand": "A68T6",
+        "bet": "464",
+        "highest": 2
+    },
+    {
+        "hand": "A75JT",
+        "bet": "973",
+        "highest": 2
+    },
+    {
+        "hand": "A882T",
+        "bet": "378",
+        "highest": 2
+    },
+    {
+        "hand": "A9495",
+        "bet": "433",
+        "highest": 2
+    },
+    {
+        "hand": "A9986",
+        "bet": "324",
+        "highest": 2
+    },
+    {
+        "hand": "A9QQ8",
+        "bet": "904",
+        "highest": 2
+    },
+    {
+        "hand": "A9K6J",
+        "bet": "156",
+        "highest": 2
+    },
+    {
+        "hand": "A9KA6",
+        "bet": "474",
+        "highest": 2
+    },
+    {
+        "hand": "ATJQ3",
+        "bet": "654",
+        "highest": 2
+    },
+    {
+        "hand": "ATT85",
+        "bet": "608",
+        "highest": 2
+    },
+    {
+        "hand": "AQ4JT",
+        "bet": "291",
+        "highest": 2
+    },
+    {
+        "hand": "AK9K8",
+        "bet": "930",
+        "highest": 2
+    },
+    {
+        "hand": "AKTJ8",
+        "bet": "502",
+        "highest": 2
+    },
+    {
+        "hand": "AA45Q",
+        "bet": "807",
+        "highest": 2
+    },
+    {
+        "hand": "AA592",
+        "bet": "266",
+        "highest": 2
+    },
+    {
+        "hand": "AA7Q2",
+        "bet": "838",
+        "highest": 2
+    },
+    {
+        "hand": "AAQTK",
+        "bet": "722",
+        "highest": 2
+    },
+    {
+        "hand": "AAK56",
+        "bet": "638",
+        "highest": 2
+    },
+    {
+        "hand": "22343",
+        "bet": "845",
+        "highest": 2
+    },
+    {
+        "hand": "2244Q",
+        "bet": "100",
+        "highest": 2
+    },
+    {
+        "hand": "22455",
+        "bet": "972",
+        "highest": 2
+    },
+    {
+        "hand": "2255K",
+        "bet": "956",
+        "highest": 2
+    },
+    {
+        "hand": "226KK",
+        "bet": "679",
+        "highest": 2
+    },
+    {
+        "hand": "22977",
+        "bet": "25",
+        "highest": 2
+    },
+    {
+        "hand": "23Q2Q",
+        "bet": "466",
+        "highest": 2
+    },
+    {
+        "hand": "25T2T",
+        "bet": "902",
+        "highest": 2
+    },
+    {
+        "hand": "26526",
+        "bet": "10",
+        "highest": 2
+    },
+    {
+        "hand": "288TT",
+        "bet": "237",
+        "highest": 2
+    },
+    {
+        "hand": "28T2T",
+        "bet": "55",
+        "highest": 2
+    },
+    {
+        "hand": "29924",
+        "bet": "596",
+        "highest": 2
+    },
+    {
+        "hand": "2K8K8",
+        "bet": "452",
+        "highest": 2
+    },
+    {
+        "hand": "3366K",
+        "bet": "355",
+        "highest": 2
+    },
+    {
+        "hand": "337Q7",
+        "bet": "95",
+        "highest": 2
+    },
+    {
+        "hand": "38663",
+        "bet": "936",
+        "highest": 2
+    },
+    {
+        "hand": "44232",
+        "bet": "963",
+        "highest": 2
+    },
+    {
+        "hand": "445KK",
+        "bet": "590",
+        "highest": 2
+    },
+    {
+        "hand": "44997",
+        "bet": "108",
+        "highest": 2
+    },
+    {
+        "hand": "449QQ",
+        "bet": "607",
+        "highest": 2
+    },
+    {
+        "hand": "46264",
+        "bet": "884",
+        "highest": 2
+    },
+    {
+        "hand": "46465",
+        "bet": "707",
+        "highest": 2
+    },
+    {
+        "hand": "46643",
+        "bet": "135",
+        "highest": 2
+    },
+    {
+        "hand": "48383",
+        "bet": "701",
+        "highest": 2
+    },
+    {
+        "hand": "484QQ",
+        "bet": "265",
+        "highest": 2
+    },
+    {
+        "hand": "52256",
+        "bet": "767",
+        "highest": 2
+    },
+    {
+        "hand": "5353A",
+        "bet": "826",
+        "highest": 2
+    },
+    {
+        "hand": "54465",
+        "bet": "975",
+        "highest": 2
+    },
+    {
+        "hand": "545AA",
+        "bet": "864",
+        "highest": 2
+    },
+    {
+        "hand": "54885",
+        "bet": "684",
+        "highest": 2
+    },
+    {
+        "hand": "55TKT",
+        "bet": "703",
+        "highest": 2
+    },
+    {
+        "hand": "55TAA",
+        "bet": "273",
+        "highest": 2
+    },
+    {
+        "hand": "57522",
+        "bet": "810",
+        "highest": 2
+    },
+    {
+        "hand": "58835",
+        "bet": "558",
+        "highest": 2
+    },
+    {
+        "hand": "59T95",
+        "bet": "281",
+        "highest": 2
+    },
+    {
+        "hand": "5T5T2",
+        "bet": "689",
+        "highest": 2
+    },
+    {
+        "hand": "5T77T",
+        "bet": "147",
+        "highest": 2
+    },
+    {
+        "hand": "5K85K",
+        "bet": "119",
+        "highest": 2
+    },
+    {
+        "hand": "5K9K9",
+        "bet": "304",
+        "highest": 2
+    },
+    {
+        "hand": "66339",
+        "bet": "827",
+        "highest": 2
+    },
+    {
+        "hand": "67788",
+        "bet": "354",
+        "highest": 2
+    },
+    {
+        "hand": "6T63T",
+        "bet": "309",
+        "highest": 2
+    },
+    {
+        "hand": "6T677",
+        "bet": "43",
+        "highest": 2
+    },
+    {
+        "hand": "6T69T",
+        "bet": "489",
+        "highest": 2
+    },
+    {
+        "hand": "6Q33Q",
+        "bet": "201",
+        "highest": 2
+    },
+    {
+        "hand": "6A6TA",
+        "bet": "959",
+        "highest": 2
+    },
+    {
+        "hand": "73372",
+        "bet": "712",
+        "highest": 2
+    },
+    {
+        "hand": "74433",
+        "bet": "481",
+        "highest": 2
+    },
+    {
+        "hand": "7T7KT",
+        "bet": "140",
+        "highest": 2
+    },
+    {
+        "hand": "7A76A",
+        "bet": "823",
+        "highest": 2
+    },
+    {
+        "hand": "8383A",
+        "bet": "120",
+        "highest": 2
+    },
+    {
+        "hand": "848Q4",
+        "bet": "628",
+        "highest": 2
+    },
+    {
+        "hand": "85353",
+        "bet": "520",
+        "highest": 2
+    },
+    {
+        "hand": "86844",
+        "bet": "727",
+        "highest": 2
+    },
+    {
+        "hand": "87558",
+        "bet": "469",
+        "highest": 2
+    },
+    {
+        "hand": "886K6",
+        "bet": "642",
+        "highest": 2
+    },
+    {
+        "hand": "88733",
+        "bet": "403",
+        "highest": 2
+    },
+    {
+        "hand": "8KT8K",
+        "bet": "126",
+        "highest": 2
+    },
+    {
+        "hand": "93737",
+        "bet": "700",
+        "highest": 2
+    },
+    {
+        "hand": "94646",
+        "bet": "643",
+        "highest": 2
+    },
+    {
+        "hand": "95T9T",
+        "bet": "757",
+        "highest": 2
+    },
+    {
+        "hand": "96Q6Q",
+        "bet": "997",
+        "highest": 2
+    },
+    {
+        "hand": "96Q96",
+        "bet": "944",
+        "highest": 2
+    },
+    {
+        "hand": "992KK",
+        "bet": "138",
+        "highest": 2
+    },
+    {
+        "hand": "99773",
+        "bet": "762",
+        "highest": 2
+    },
+    {
+        "hand": "99T66",
+        "bet": "336",
+        "highest": 2
+    },
+    {
+        "hand": "9T6T9",
+        "bet": "360",
+        "highest": 2
+    },
+    {
+        "hand": "9K77K",
+        "bet": "819",
+        "highest": 2
+    },
+    {
+        "hand": "T6T64",
+        "bet": "479",
+        "highest": 2
+    },
+    {
+        "hand": "T7Q7Q",
+        "bet": "58",
+        "highest": 2
+    },
+    {
+        "hand": "T997T",
+        "bet": "139",
+        "highest": 2
+    },
+    {
+        "hand": "TTQQ9",
+        "bet": "563",
+        "highest": 2
+    },
+    {
+        "hand": "TA33T",
+        "bet": "910",
+        "highest": 2
+    },
+    {
+        "hand": "TA6T6",
+        "bet": "242",
+        "highest": 2
+    },
+    {
+        "hand": "Q22QA",
+        "bet": "965",
+        "highest": 2
+    },
+    {
+        "hand": "Q7744",
+        "bet": "660",
+        "highest": 2
+    },
+    {
+        "hand": "QT9T9",
+        "bet": "5",
+        "highest": 2
+    },
+    {
+        "hand": "QTTQA",
+        "bet": "296",
+        "highest": 2
+    },
+    {
+        "hand": "K33K5",
+        "bet": "582",
+        "highest": 2
+    },
+    {
+        "hand": "K383K",
+        "bet": "612",
+        "highest": 2
+    },
+    {
+        "hand": "K588K",
+        "bet": "2",
+        "highest": 2
+    },
+    {
+        "hand": "K67K6",
+        "bet": "179",
+        "highest": 2
+    },
+    {
+        "hand": "K6A6A",
+        "bet": "535",
+        "highest": 2
+    },
+    {
+        "hand": "KTKAA",
+        "bet": "133",
+        "highest": 2
+    },
+    {
+        "hand": "KK224",
+        "bet": "465",
+        "highest": 2
+    },
+    {
+        "hand": "KK677",
+        "bet": "566",
+        "highest": 2
+    },
+    {
+        "hand": "KAA44",
+        "bet": "885",
+        "highest": 2
+    },
+    {
+        "hand": "A4646",
+        "bet": "301",
+        "highest": 2
+    },
+    {
+        "hand": "A46A6",
+        "bet": "30",
+        "highest": 2
+    },
+    {
+        "hand": "A4A24",
+        "bet": "271",
+        "highest": 2
+    },
+    {
+        "hand": "A5QAQ",
+        "bet": "419",
+        "highest": 2
+    },
+    {
+        "hand": "A5K5K",
+        "bet": "72",
+        "highest": 2
+    },
+    {
+        "hand": "AK2KA",
+        "bet": "788",
+        "highest": 2
+    },
+    {
+        "hand": "AA33T",
+        "bet": "144",
+        "highest": 2
+    },
+    {
+        "hand": "AA77K",
+        "bet": "94",
+        "highest": 2
+    },
+    {
+        "hand": "AA7TT",
+        "bet": "477",
+        "highest": 2
+    },
+    {
+        "hand": "AA822",
+        "bet": "751",
+        "highest": 2
+    },
+    {
+        "hand": "JJAT8",
+        "bet": "7",
+        "highest": 3
+    },
+    {
+        "hand": "J2JTA",
+        "bet": "22",
+        "highest": 3
+    },
+    {
+        "hand": "J242Q",
+        "bet": "943",
+        "highest": 3
+    },
+    {
+        "hand": "J2623",
+        "bet": "952",
+        "highest": 3
+    },
+    {
+        "hand": "J2792",
+        "bet": "887",
+        "highest": 3
+    },
+    {
+        "hand": "J3362",
+        "bet": "158",
+        "highest": 3
+    },
+    {
+        "hand": "J34KK",
+        "bet": "338",
+        "highest": 3
+    },
+    {
+        "hand": "J447Q",
+        "bet": "485",
+        "highest": 3
+    },
+    {
+        "hand": "J4KAK",
+        "bet": "651",
+        "highest": 3
+    },
+    {
+        "hand": "J4AJ6",
+        "bet": "971",
+        "highest": 3
+    },
+    {
+        "hand": "J5285",
+        "bet": "136",
+        "highest": 3
+    },
+    {
+        "hand": "J66K7",
+        "bet": "288",
+        "highest": 3
+    },
+    {
+        "hand": "J6T2T",
+        "bet": "223",
+        "highest": 3
+    },
+    {
+        "hand": "J747K",
+        "bet": "960",
+        "highest": 3
+    },
+    {
+        "hand": "J7579",
+        "bet": "274",
+        "highest": 3
+    },
+    {
+        "hand": "J8JT6",
+        "bet": "932",
+        "highest": 3
+    },
+    {
+        "hand": "J8443",
+        "bet": "151",
+        "highest": 3
+    },
+    {
+        "hand": "J8Q9Q",
+        "bet": "856",
+        "highest": 3
+    },
+    {
+        "hand": "J93Q9",
+        "bet": "529",
+        "highest": 3
+    },
+    {
+        "hand": "J94J2",
+        "bet": "988",
+        "highest": 3
+    },
+    {
+        "hand": "J9Q92",
+        "bet": "681",
+        "highest": 3
+    },
+    {
+        "hand": "J9QTQ",
+        "bet": "339",
+        "highest": 3
+    },
+    {
+        "hand": "JT5JA",
+        "bet": "166",
+        "highest": 3
+    },
+    {
+        "hand": "JT744",
+        "bet": "907",
+        "highest": 3
+    },
+    {
+        "hand": "JTKTQ",
+        "bet": "866",
+        "highest": 3
+    },
+    {
+        "hand": "JQ4JK",
+        "bet": "738",
+        "highest": 3
+    },
+    {
+        "hand": "JQ828",
+        "bet": "769",
+        "highest": 3
+    },
+    {
+        "hand": "JK366",
+        "bet": "811",
+        "highest": 3
+    },
+    {
+        "hand": "JKK3T",
+        "bet": "933",
+        "highest": 3
+    },
+    {
+        "hand": "JA255",
+        "bet": "194",
+        "highest": 3
+    },
+    {
+        "hand": "JA3J8",
+        "bet": "12",
+        "highest": 3
+    },
+    {
+        "hand": "JA699",
+        "bet": "704",
+        "highest": 3
+    },
+    {
+        "hand": "JAA92",
+        "bet": "86",
+        "highest": 3
+    },
+    {
+        "hand": "2J655",
+        "bet": "645",
+        "highest": 3
+    },
+    {
+        "hand": "2J757",
+        "bet": "699",
+        "highest": 3
+    },
+    {
+        "hand": "224A2",
+        "bet": "496",
+        "highest": 3
+    },
+    {
+        "hand": "2272Q",
+        "bet": "258",
+        "highest": 3
+    },
+    {
+        "hand": "25223",
+        "bet": "781",
+        "highest": 3
+    },
+    {
+        "hand": "262JA",
+        "bet": "373",
+        "highest": 3
+    },
+    {
+        "hand": "26229",
+        "bet": "142",
+        "highest": 3
+    },
+    {
+        "hand": "26999",
+        "bet": "848",
+        "highest": 3
+    },
+    {
+        "hand": "26TTT",
+        "bet": "418",
+        "highest": 3
+    },
+    {
+        "hand": "2777A",
+        "bet": "397",
+        "highest": 3
+    },
+    {
+        "hand": "282J5",
+        "bet": "6",
+        "highest": 3
+    },
+    {
+        "hand": "288J3",
+        "bet": "835",
+        "highest": 3
+    },
+    {
+        "hand": "29A99",
+        "bet": "317",
+        "highest": 3
+    },
+    {
+        "hand": "2TTT9",
+        "bet": "882",
+        "highest": 3
+    },
+    {
+        "hand": "2KQQJ",
+        "bet": "957",
+        "highest": 3
+    },
+    {
+        "hand": "3J8TT",
+        "bet": "828",
+        "highest": 3
+    },
+    {
+        "hand": "3JT44",
+        "bet": "892",
+        "highest": 3
+    },
+    {
+        "hand": "3JKQK",
+        "bet": "630",
+        "highest": 3
+    },
+    {
+        "hand": "33K38",
+        "bet": "168",
+        "highest": 3
+    },
+    {
+        "hand": "33KAJ",
+        "bet": "215",
+        "highest": 3
+    },
+    {
+        "hand": "34494",
+        "bet": "85",
+        "highest": 3
+    },
+    {
+        "hand": "37393",
+        "bet": "617",
+        "highest": 3
+    },
+    {
+        "hand": "38Q3J",
+        "bet": "152",
+        "highest": 3
+    },
+    {
+        "hand": "3T3A3",
+        "bet": "869",
+        "highest": 3
+    },
+    {
+        "hand": "3QQ9Q",
+        "bet": "231",
+        "highest": 3
+    },
+    {
+        "hand": "3QAJJ",
+        "bet": "468",
+        "highest": 3
+    },
+    {
+        "hand": "3K37J",
+        "bet": "898",
+        "highest": 3
+    },
+    {
+        "hand": "3K4J4",
+        "bet": "537",
+        "highest": 3
+    },
+    {
+        "hand": "3KKTK",
+        "bet": "221",
+        "highest": 3
+    },
+    {
+        "hand": "3KKK9",
+        "bet": "935",
+        "highest": 3
+    },
+    {
+        "hand": "3A53J",
+        "bet": "259",
+        "highest": 3
+    },
+    {
+        "hand": "4J49T",
+        "bet": "320",
+        "highest": 3
+    },
+    {
+        "hand": "4JT9J",
+        "bet": "263",
+        "highest": 3
+    },
+    {
+        "hand": "4JQAQ",
+        "bet": "551",
+        "highest": 3
+    },
+    {
+        "hand": "4JA88",
+        "bet": "725",
+        "highest": 3
+    },
+    {
+        "hand": "43464",
+        "bet": "381",
+        "highest": 3
+    },
+    {
+        "hand": "44JK2",
+        "bet": "241",
+        "highest": 3
+    },
+    {
+        "hand": "44248",
+        "bet": "655",
+        "highest": 3
+    },
+    {
+        "hand": "4424A",
+        "bet": "290",
+        "highest": 3
+    },
+    {
+        "hand": "44384",
+        "bet": "602",
+        "highest": 3
+    },
+    {
+        "hand": "444KQ",
+        "bet": "388",
+        "highest": 3
+    },
+    {
+        "hand": "44A7J",
+        "bet": "557",
+        "highest": 3
+    },
+    {
+        "hand": "45AJ5",
+        "bet": "131",
+        "highest": 3
+    },
+    {
+        "hand": "46744",
+        "bet": "307",
+        "highest": 3
+    },
+    {
+        "hand": "47JQQ",
+        "bet": "534",
+        "highest": 3
+    },
+    {
+        "hand": "47424",
+        "bet": "272",
+        "highest": 3
+    },
+    {
+        "hand": "477K7",
+        "bet": "618",
+        "highest": 3
+    },
+    {
+        "hand": "477A7",
+        "bet": "844",
+        "highest": 3
+    },
+    {
+        "hand": "478J8",
+        "bet": "967",
+        "highest": 3
+    },
+    {
+        "hand": "48222",
+        "bet": "392",
+        "highest": 3
+    },
+    {
+        "hand": "48544",
+        "bet": "909",
+        "highest": 3
+    },
+    {
+        "hand": "49T99",
+        "bet": "287",
+        "highest": 3
+    },
+    {
+        "hand": "4T3J3",
+        "bet": "154",
+        "highest": 3
+    },
+    {
+        "hand": "4TTTK",
+        "bet": "428",
+        "highest": 3
+    },
+    {
+        "hand": "4QJKK",
+        "bet": "716",
+        "highest": 3
+    },
+    {
+        "hand": "4Q222",
+        "bet": "705",
+        "highest": 3
+    },
+    {
+        "hand": "4QKQQ",
+        "bet": "49",
+        "highest": 3
+    },
+    {
+        "hand": "4A3J3",
+        "bet": "182",
+        "highest": 3
+    },
+    {
+        "hand": "4AK4J",
+        "bet": "308",
+        "highest": 3
+    },
+    {
+        "hand": "5JA99",
+        "bet": "21",
+        "highest": 3
+    },
+    {
+        "hand": "5266J",
+        "bet": "787",
+        "highest": 3
+    },
+    {
+        "hand": "5333K",
+        "bet": "648",
+        "highest": 3
+    },
+    {
+        "hand": "53363",
+        "bet": "589",
+        "highest": 3
+    },
+    {
+        "hand": "53A55",
+        "bet": "233",
+        "highest": 3
+    },
+    {
+        "hand": "55J9A",
+        "bet": "949",
+        "highest": 3
+    },
+    {
+        "hand": "5525T",
+        "bet": "114",
+        "highest": 3
+    },
+    {
+        "hand": "553JT",
+        "bet": "512",
+        "highest": 3
+    },
+    {
+        "hand": "557J9",
+        "bet": "318",
+        "highest": 3
+    },
+    {
+        "hand": "55752",
+        "bet": "35",
+        "highest": 3
+    },
+    {
+        "hand": "55835",
+        "bet": "169",
+        "highest": 3
+    },
+    {
+        "hand": "559A5",
+        "bet": "333",
+        "highest": 3
+    },
+    {
+        "hand": "5655T",
+        "bet": "312",
+        "highest": 3
+    },
+    {
+        "hand": "58333",
+        "bet": "325",
+        "highest": 3
+    },
+    {
+        "hand": "5TT9T",
+        "bet": "192",
+        "highest": 3
+    },
+    {
+        "hand": "5QQ8Q",
+        "bet": "546",
+        "highest": 3
+    },
+    {
+        "hand": "5K3KK",
+        "bet": "99",
+        "highest": 3
+    },
+    {
+        "hand": "5A5Q5",
+        "bet": "303",
+        "highest": 3
+    },
+    {
+        "hand": "5AAA3",
+        "bet": "190",
+        "highest": 3
+    },
+    {
+        "hand": "6JA33",
+        "bet": "322",
+        "highest": 3
+    },
+    {
+        "hand": "62466",
+        "bet": "122",
+        "highest": 3
+    },
+    {
+        "hand": "63393",
+        "bet": "204",
+        "highest": 3
+    },
+    {
+        "hand": "66296",
+        "bet": "708",
+        "highest": 3
+    },
+    {
+        "hand": "666KA",
+        "bet": "129",
+        "highest": 3
+    },
+    {
+        "hand": "66869",
+        "bet": "868",
+        "highest": 3
+    },
+    {
+        "hand": "67757",
+        "bet": "74",
+        "highest": 3
+    },
+    {
+        "hand": "677Q7",
+        "bet": "758",
+        "highest": 3
+    },
+    {
+        "hand": "68858",
+        "bet": "985",
+        "highest": 3
+    },
+    {
+        "hand": "6Q667",
+        "bet": "799",
+        "highest": 3
+    },
+    {
+        "hand": "6QQQ5",
+        "bet": "938",
+        "highest": 3
+    },
+    {
+        "hand": "6QQQ9",
+        "bet": "665",
+        "highest": 3
+    },
+    {
+        "hand": "6K2J2",
+        "bet": "859",
+        "highest": 3
+    },
+    {
+        "hand": "6KKQK",
+        "bet": "254",
+        "highest": 3
+    },
+    {
+        "hand": "7JJ3Q",
+        "bet": "141",
+        "highest": 3
+    },
+    {
+        "hand": "7JT97",
+        "bet": "377",
+        "highest": 3
+    },
+    {
+        "hand": "737K7",
+        "bet": "506",
+        "highest": 3
+    },
+    {
+        "hand": "73TTJ",
+        "bet": "421",
+        "highest": 3
+    },
+    {
+        "hand": "73A33",
+        "bet": "252",
+        "highest": 3
+    },
+    {
+        "hand": "74J76",
+        "bet": "536",
+        "highest": 3
+    },
+    {
+        "hand": "77378",
+        "bet": "400",
+        "highest": 3
+    },
+    {
+        "hand": "77547",
+        "bet": "674",
+        "highest": 3
+    },
+    {
+        "hand": "77724",
+        "bet": "958",
+        "highest": 3
+    },
+    {
+        "hand": "77764",
+        "bet": "286",
+        "highest": 3
+    },
+    {
+        "hand": "77789",
+        "bet": "33",
+        "highest": 3
+    },
+    {
+        "hand": "777K8",
+        "bet": "389",
+        "highest": 3
+    },
+    {
+        "hand": "777A3",
+        "bet": "914",
+        "highest": 3
+    },
+    {
+        "hand": "77T67",
+        "bet": "153",
+        "highest": 3
+    },
+    {
+        "hand": "77Q8J",
+        "bet": "159",
+        "highest": 3
+    },
+    {
+        "hand": "77AKJ",
+        "bet": "829",
+        "highest": 3
+    },
+    {
+        "hand": "7TQQQ",
+        "bet": "718",
+        "highest": 3
+    },
+    {
+        "hand": "7K772",
+        "bet": "236",
+        "highest": 3
+    },
+    {
+        "hand": "8J248",
+        "bet": "968",
+        "highest": 3
+    },
+    {
+        "hand": "8J98K",
+        "bet": "577",
+        "highest": 3
+    },
+    {
+        "hand": "8JQQ7",
+        "bet": "188",
+        "highest": 3
+    },
+    {
+        "hand": "822K2",
+        "bet": "927",
+        "highest": 3
+    },
+    {
+        "hand": "82Q88",
+        "bet": "29",
+        "highest": 3
+    },
+    {
+        "hand": "846J8",
+        "bet": "586",
+        "highest": 3
+    },
+    {
+        "hand": "855JK",
+        "bet": "382",
+        "highest": 3
+    },
+    {
+        "hand": "855Q5",
+        "bet": "990",
+        "highest": 3
+    },
+    {
+        "hand": "87727",
+        "bet": "780",
+        "highest": 3
+    },
+    {
+        "hand": "8878Q",
+        "bet": "96",
+        "highest": 3
+    },
+    {
+        "hand": "88846",
+        "bet": "518",
+        "highest": 3
+    },
+    {
+        "hand": "8895J",
+        "bet": "211",
+        "highest": 3
+    },
+    {
+        "hand": "88AK8",
+        "bet": "14",
+        "highest": 3
+    },
+    {
+        "hand": "8959J",
+        "bet": "790",
+        "highest": 3
+    },
+    {
+        "hand": "8T3J3",
+        "bet": "280",
+        "highest": 3
+    },
+    {
+        "hand": "8TTT2",
+        "bet": "300",
+        "highest": 3
+    },
+    {
+        "hand": "8K9KK",
+        "bet": "191",
+        "highest": 3
+    },
+    {
+        "hand": "9J7J2",
+        "bet": "104",
+        "highest": 3
+    },
+    {
+        "hand": "9J98Q",
+        "bet": "659",
+        "highest": 3
+    },
+    {
+        "hand": "9JQQ3",
+        "bet": "791",
+        "highest": 3
+    },
+    {
+        "hand": "93949",
+        "bet": "463",
+        "highest": 3
+    },
+    {
+        "hand": "94555",
+        "bet": "163",
+        "highest": 3
+    },
+    {
+        "hand": "95777",
+        "bet": "353",
+        "highest": 3
+    },
+    {
+        "hand": "95K55",
+        "bet": "368",
+        "highest": 3
+    },
+    {
+        "hand": "96J98",
+        "bet": "110",
+        "highest": 3
+    },
+    {
+        "hand": "9666K",
+        "bet": "15",
+        "highest": 3
+    },
+    {
+        "hand": "98885",
+        "bet": "19",
+        "highest": 3
+    },
+    {
+        "hand": "9899T",
+        "bet": "87",
+        "highest": 3
+    },
+    {
+        "hand": "98K88",
+        "bet": "976",
+        "highest": 3
+    },
+    {
+        "hand": "99JTK",
+        "bet": "662",
+        "highest": 3
+    },
+    {
+        "hand": "99398",
+        "bet": "262",
+        "highest": 3
+    },
+    {
+        "hand": "9979T",
+        "bet": "251",
+        "highest": 3
+    },
+    {
+        "hand": "99932",
+        "bet": "803",
+        "highest": 3
+    },
+    {
+        "hand": "9T7JJ",
+        "bet": "79",
+        "highest": 3
+    },
+    {
+        "hand": "9K4JK",
+        "bet": "423",
+        "highest": 3
+    },
+    {
+        "hand": "9A9J3",
+        "bet": "897",
+        "highest": 3
+    },
+    {
+        "hand": "TJ787",
+        "bet": "571",
+        "highest": 3
+    },
+    {
+        "hand": "TJ9KT",
+        "bet": "279",
+        "highest": 3
+    },
+    {
+        "hand": "T2J23",
+        "bet": "863",
+        "highest": 3
+    },
+    {
+        "hand": "T24TT",
+        "bet": "478",
+        "highest": 3
+    },
+    {
+        "hand": "T2TKJ",
+        "bet": "48",
+        "highest": 3
+    },
+    {
+        "hand": "T4JJK",
+        "bet": "895",
+        "highest": 3
+    },
+    {
+        "hand": "T4J2J",
+        "bet": "570",
+        "highest": 3
+    },
+    {
+        "hand": "T4222",
+        "bet": "849",
+        "highest": 3
+    },
+    {
+        "hand": "T4442",
+        "bet": "275",
+        "highest": 3
+    },
+    {
+        "hand": "T48TT",
+        "bet": "573",
+        "highest": 3
+    },
+    {
+        "hand": "T5TJ7",
+        "bet": "11",
+        "highest": 3
+    },
+    {
+        "hand": "T5TT7",
+        "bet": "227",
+        "highest": 3
+    },
+    {
+        "hand": "T6TKJ",
+        "bet": "383",
+        "highest": 3
+    },
+    {
+        "hand": "TT7T9",
+        "bet": "671",
+        "highest": 3
+    },
+    {
+        "hand": "TTTKQ",
+        "bet": "581",
+        "highest": 3
+    },
+    {
+        "hand": "TA33J",
+        "bet": "937",
+        "highest": 3
+    },
+    {
+        "hand": "QJ9Q5",
+        "bet": "289",
+        "highest": 3
+    },
+    {
+        "hand": "QJQ92",
+        "bet": "669",
+        "highest": 3
+    },
+    {
+        "hand": "Q55J2",
+        "bet": "540",
+        "highest": 3
+    },
+    {
+        "hand": "Q6QQA",
+        "bet": "852",
+        "highest": 3
+    },
+    {
+        "hand": "Q6KQQ",
+        "bet": "822",
+        "highest": 3
+    },
+    {
+        "hand": "Q7377",
+        "bet": "761",
+        "highest": 3
+    },
+    {
+        "hand": "Q7778",
+        "bet": "150",
+        "highest": 3
+    },
+    {
+        "hand": "Q88J3",
+        "bet": "983",
+        "highest": 3
+    },
+    {
+        "hand": "Q8Q7Q",
+        "bet": "873",
+        "highest": 3
+    },
+    {
+        "hand": "QQ6KJ",
+        "bet": "561",
+        "highest": 3
+    },
+    {
+        "hand": "QQTKJ",
+        "bet": "771",
+        "highest": 3
+    },
+    {
+        "hand": "QAJ6Q",
+        "bet": "913",
+        "highest": 3
+    },
+    {
+        "hand": "K59KK",
+        "bet": "121",
+        "highest": 3
+    },
+    {
+        "hand": "K5K7K",
+        "bet": "132",
+        "highest": 3
+    },
+    {
+        "hand": "K6TJ6",
+        "bet": "999",
+        "highest": 3
+    },
+    {
+        "hand": "K83KJ",
+        "bet": "230",
+        "highest": 3
+    },
+    {
+        "hand": "K8838",
+        "bet": "20",
+        "highest": 3
+    },
+    {
+        "hand": "K9995",
+        "bet": "76",
+        "highest": 3
+    },
+    {
+        "hand": "KT3TJ",
+        "bet": "432",
+        "highest": 3
+    },
+    {
+        "hand": "KK6TK",
+        "bet": "637",
+        "highest": 3
+    },
+    {
+        "hand": "KK8K7",
+        "bet": "113",
+        "highest": 3
+    },
+    {
+        "hand": "KKK43",
+        "bet": "583",
+        "highest": 3
+    },
+    {
+        "hand": "KA6JA",
+        "bet": "601",
+        "highest": 3
+    },
+    {
+        "hand": "KATAJ",
+        "bet": "921",
+        "highest": 3
+    },
+    {
+        "hand": "KAA5A",
+        "bet": "883",
+        "highest": 3
+    },
+    {
+        "hand": "AJ4A8",
+        "bet": "28",
+        "highest": 3
+    },
+    {
+        "hand": "AJ82A",
+        "bet": "682",
+        "highest": 3
+    },
+    {
+        "hand": "AJT22",
+        "bet": "398",
+        "highest": 3
+    },
+    {
+        "hand": "AJT9A",
+        "bet": "494",
+        "highest": 3
+    },
+    {
+        "hand": "AJTTQ",
+        "bet": "544",
+        "highest": 3
+    },
+    {
+        "hand": "AJA5T",
+        "bet": "853",
+        "highest": 3
+    },
+    {
+        "hand": "AJA76",
+        "bet": "591",
+        "highest": 3
+    },
+    {
+        "hand": "A2333",
+        "bet": "145",
+        "highest": 3
+    },
+    {
+        "hand": "A2A5J",
+        "bet": "210",
+        "highest": 3
+    },
+    {
+        "hand": "A4744",
+        "bet": "219",
+        "highest": 3
+    },
+    {
+        "hand": "A5T55",
+        "bet": "426",
+        "highest": 3
+    },
+    {
+        "hand": "A6A4J",
+        "bet": "199",
+        "highest": 3
+    },
+    {
+        "hand": "A6A9A",
+        "bet": "763",
+        "highest": 3
+    },
+    {
+        "hand": "A7666",
+        "bet": "3",
+        "highest": 3
+    },
+    {
+        "hand": "A7TJT",
+        "bet": "413",
+        "highest": 3
+    },
+    {
+        "hand": "A94JA",
+        "bet": "416",
+        "highest": 3
+    },
+    {
+        "hand": "A9QAJ",
+        "bet": "875",
+        "highest": 3
+    },
+    {
+        "hand": "AT4AA",
+        "bet": "63",
+        "highest": 3
+    },
+    {
+        "hand": "ATTT8",
+        "bet": "860",
+        "highest": 3
+    },
+    {
+        "hand": "AKA6A",
+        "bet": "284",
+        "highest": 3
+    },
+    {
+        "hand": "AKAA8",
+        "bet": "524",
+        "highest": 3
+    },
+    {
+        "hand": "AA46A",
+        "bet": "806",
+        "highest": 3
+    },
+    {
+        "hand": "AA5A7",
+        "bet": "375",
+        "highest": 3
+    },
+    {
+        "hand": "AA7KA",
+        "bet": "431",
+        "highest": 3
+    },
+    {
+        "hand": "J2T2T",
+        "bet": "697",
+        "highest": "f"
+    },
+    {
+        "hand": "JA99A",
+        "bet": "953",
+        "highest": "f"
+    },
+    {
+        "hand": "JAA66",
+        "bet": "663",
+        "highest": "f"
+    },
+    {
+        "hand": "2J662",
+        "bet": "111",
+        "highest": "f"
+    },
+    {
+        "hand": "222QQ",
+        "bet": "539",
+        "highest": "f"
+    },
+    {
+        "hand": "22662",
+        "bet": "521",
+        "highest": "f"
+    },
+    {
+        "hand": "22666",
+        "bet": "405",
+        "highest": "f"
+    },
+    {
+        "hand": "22T2T",
+        "bet": "417",
+        "highest": "f"
+    },
+    {
+        "hand": "22KKK",
+        "bet": "891",
+        "highest": "f"
+    },
+    {
+        "hand": "27J72",
+        "bet": "342",
+        "highest": "f"
+    },
+    {
+        "hand": "27727",
+        "bet": "691",
+        "highest": "f"
+    },
+    {
+        "hand": "2Q2JQ",
+        "bet": "597",
+        "highest": "f"
+    },
+    {
+        "hand": "3J939",
+        "bet": "62",
+        "highest": "f"
+    },
+    {
+        "hand": "32232",
+        "bet": "407",
+        "highest": "f"
+    },
+    {
+        "hand": "33KJK",
+        "bet": "422",
+        "highest": "f"
+    },
+    {
+        "hand": "33AA3",
+        "bet": "854",
+        "highest": "f"
+    },
+    {
+        "hand": "37733",
+        "bet": "434",
+        "highest": "f"
+    },
+    {
+        "hand": "38383",
+        "bet": "782",
+        "highest": "f"
+    },
+    {
+        "hand": "38388",
+        "bet": "316",
+        "highest": "f"
+    },
+    {
+        "hand": "43343",
+        "bet": "595",
+        "highest": "f"
+    },
+    {
+        "hand": "43434",
+        "bet": "157",
+        "highest": "f"
+    },
+    {
+        "hand": "44222",
+        "bet": "555",
+        "highest": "f"
+    },
+    {
+        "hand": "44774",
+        "bet": "216",
+        "highest": "f"
+    },
+    {
+        "hand": "44884",
+        "bet": "808",
+        "highest": "f"
+    },
+    {
+        "hand": "44994",
+        "bet": "575",
+        "highest": "f"
+    },
+    {
+        "hand": "44QQ4",
+        "bet": "903",
+        "highest": "f"
+    },
+    {
+        "hand": "45445",
+        "bet": "760",
+        "highest": "f"
+    },
+    {
+        "hand": "4KK44",
+        "bet": "793",
+        "highest": "f"
+    },
+    {
+        "hand": "4AJA4",
+        "bet": "250",
+        "highest": "f"
+    },
+    {
+        "hand": "533J5",
+        "bet": "176",
+        "highest": "f"
+    },
+    {
+        "hand": "53533",
+        "bet": "656",
+        "highest": "f"
+    },
+    {
+        "hand": "55225",
+        "bet": "493",
+        "highest": "f"
+    },
+    {
+        "hand": "55445",
+        "bet": "916",
+        "highest": "f"
+    },
+    {
+        "hand": "55588",
+        "bet": "420",
+        "highest": "f"
+    },
+    {
+        "hand": "556J6",
+        "bet": "802",
+        "highest": "f"
+    },
+    {
+        "hand": "56566",
+        "bet": "640",
+        "highest": "f"
+    },
+    {
+        "hand": "57755",
+        "bet": "970",
+        "highest": "f"
+    },
+    {
+        "hand": "58858",
+        "bet": "9",
+        "highest": "f"
+    },
+    {
+        "hand": "5K55K",
+        "bet": "749",
+        "highest": "f"
+    },
+    {
+        "hand": "63336",
+        "bet": "92",
+        "highest": "f"
+    },
+    {
+        "hand": "66JKK",
+        "bet": "482",
+        "highest": "f"
+    },
+    {
+        "hand": "664J4",
+        "bet": "238",
+        "highest": "f"
+    },
+    {
+        "hand": "66999",
+        "bet": "664",
+        "highest": "f"
+    },
+    {
+        "hand": "66QQQ",
+        "bet": "925",
+        "highest": "f"
+    },
+    {
+        "hand": "66KK6",
+        "bet": "367",
+        "highest": "f"
+    },
+    {
+        "hand": "66KKK",
+        "bet": "711",
+        "highest": "f"
+    },
+    {
+        "hand": "66A6A",
+        "bet": "101",
+        "highest": "f"
+    },
+    {
+        "hand": "73773",
+        "bet": "17",
+        "highest": "f"
+    },
+    {
+        "hand": "74477",
+        "bet": "202",
+        "highest": "f"
+    },
+    {
+        "hand": "75775",
+        "bet": "295",
+        "highest": "f"
+    },
+    {
+        "hand": "76677",
+        "bet": "702",
+        "highest": "f"
+    },
+    {
+        "hand": "79797",
+        "bet": "68",
+        "highest": "f"
+    },
+    {
+        "hand": "79799",
+        "bet": "247",
+        "highest": "f"
+    },
+    {
+        "hand": "7K7K7",
+        "bet": "393",
+        "highest": "f"
+    },
+    {
+        "hand": "7A7A7",
+        "bet": "65",
+        "highest": "f"
+    },
+    {
+        "hand": "87778",
+        "bet": "693",
+        "highest": "f"
+    },
+    {
+        "hand": "87878",
+        "bet": "83",
+        "highest": "f"
+    },
+    {
+        "hand": "88J44",
+        "bet": "385",
+        "highest": "f"
+    },
+    {
+        "hand": "8822J",
+        "bet": "578",
+        "highest": "f"
+    },
+    {
+        "hand": "8T8TT",
+        "bet": "772",
+        "highest": "f"
+    },
+    {
+        "hand": "929J2",
+        "bet": "531",
+        "highest": "f"
+    },
+    {
+        "hand": "93339",
+        "bet": "843",
+        "highest": "f"
+    },
+    {
+        "hand": "93993",
+        "bet": "476",
+        "highest": "f"
+    },
+    {
+        "hand": "9494J",
+        "bet": "8",
+        "highest": "f"
+    },
+    {
+        "hand": "98899",
+        "bet": "23",
+        "highest": "f"
+    },
+    {
+        "hand": "99666",
+        "bet": "310",
+        "highest": "f"
+    },
+    {
+        "hand": "99T9T",
+        "bet": "430",
+        "highest": "f"
+    },
+    {
+        "hand": "9Q9Q9",
+        "bet": "82",
+        "highest": "f"
+    },
+    {
+        "hand": "9KKK9",
+        "bet": "516",
+        "highest": "f"
+    },
+    {
+        "hand": "9AA99",
+        "bet": "676",
+        "highest": "f"
+    },
+    {
+        "hand": "TJT55",
+        "bet": "737",
+        "highest": "f"
+    },
+    {
+        "hand": "T3TT3",
+        "bet": "315",
+        "highest": "f"
+    },
+    {
+        "hand": "T44TT",
+        "bet": "38",
+        "highest": "f"
+    },
+    {
+        "hand": "T77T7",
+        "bet": "745",
+        "highest": "f"
+    },
+    {
+        "hand": "T7TT7",
+        "bet": "523",
+        "highest": "f"
+    },
+    {
+        "hand": "TT333",
+        "bet": "240",
+        "highest": "f"
+    },
+    {
+        "hand": "TT9T9",
+        "bet": "305",
+        "highest": "f"
+    },
+    {
+        "hand": "TTT22",
+        "bet": "128",
+        "highest": "f"
+    },
+    {
+        "hand": "TKJKT",
+        "bet": "208",
+        "highest": "f"
+    },
+    {
+        "hand": "TKKTT",
+        "bet": "619",
+        "highest": "f"
+    },
+    {
+        "hand": "TATTA",
+        "bet": "908",
+        "highest": "f"
+    },
+    {
+        "hand": "QJTTQ",
+        "bet": "45",
+        "highest": "f"
+    },
+    {
+        "hand": "Q5Q5Q",
+        "bet": "335",
+        "highest": "f"
+    },
+    {
+        "hand": "Q6Q6J",
+        "bet": "492",
+        "highest": "f"
+    },
+    {
+        "hand": "QTQQT",
+        "bet": "846",
+        "highest": "f"
+    },
+    {
+        "hand": "QQJ88",
+        "bet": "467",
+        "highest": "f"
+    },
+    {
+        "hand": "QQ3J3",
+        "bet": "283",
+        "highest": "f"
+    },
+    {
+        "hand": "QQ777",
+        "bet": "306",
+        "highest": "f"
+    },
+    {
+        "hand": "QQQ33",
+        "bet": "67",
+        "highest": "f"
+    },
+    {
+        "hand": "QQQ99",
+        "bet": "624",
+        "highest": "f"
+    },
+    {
+        "hand": "QKKQK",
+        "bet": "778",
+        "highest": "f"
+    },
+    {
+        "hand": "K2K22",
+        "bet": "349",
+        "highest": "f"
+    },
+    {
+        "hand": "K4J4K",
+        "bet": "264",
+        "highest": "f"
+    },
+    {
+        "hand": "K888K",
+        "bet": "61",
+        "highest": "f"
+    },
+    {
+        "hand": "K99K9",
+        "bet": "559",
+        "highest": "f"
+    },
+    {
+        "hand": "KQKQQ",
+        "bet": "112",
+        "highest": "f"
+    },
+    {
+        "hand": "KKJ99",
+        "bet": "631",
+        "highest": "f"
+    },
+    {
+        "hand": "KK333",
+        "bet": "735",
+        "highest": "f"
+    },
+    {
+        "hand": "KKTKT",
+        "bet": "900",
+        "highest": "f"
+    },
+    {
+        "hand": "KKK44",
+        "bet": "253",
+        "highest": "f"
+    },
+    {
+        "hand": "KKK55",
+        "bet": "205",
+        "highest": "f"
+    },
+    {
+        "hand": "KAKAK",
+        "bet": "528",
+        "highest": "f"
+    },
+    {
+        "hand": "A555A",
+        "bet": "256",
+        "highest": "f"
+    },
+    {
+        "hand": "A55AA",
+        "bet": "445",
+        "highest": "f"
+    },
+    {
+        "hand": "A7JA7",
+        "bet": "183",
+        "highest": "f"
+    },
+    {
+        "hand": "A8A88",
+        "bet": "789",
+        "highest": "f"
+    },
+    {
+        "hand": "A9A9A",
+        "bet": "329",
+        "highest": "f"
+    },
+    {
+        "hand": "ATAAT",
+        "bet": "107",
+        "highest": "f"
+    },
+    {
+        "hand": "AQAAQ",
+        "bet": "369",
+        "highest": "f"
+    },
+    {
+        "hand": "AA2A2",
+        "bet": "244",
+        "highest": "f"
+    },
+    {
+        "hand": "AA3J3",
+        "bet": "491",
+        "highest": "f"
+    },
+    {
+        "hand": "AA33A",
+        "bet": "59",
+        "highest": "f"
+    },
+    {
+        "hand": "AA444",
+        "bet": "621",
+        "highest": "f"
+    },
+    {
+        "hand": "AA77A",
+        "bet": "27",
+        "highest": "f"
+    },
+    {
+        "hand": "AAA44",
+        "bet": "609",
+        "highest": "f"
+    },
+    {
+        "hand": "AAAKK",
+        "bet": "130",
+        "highest": "f"
+    },
+    {
+        "hand": "JJ2AA",
+        "bet": "568",
+        "highest": 4
+    },
+    {
+        "hand": "J2722",
+        "bet": "278",
+        "highest": 4
+    },
+    {
+        "hand": "J5444",
+        "bet": "480",
+        "highest": 4
+    },
+    {
+        "hand": "J5455",
+        "bet": "490",
+        "highest": 4
+    },
+    {
+        "hand": "J5559",
+        "bet": "786",
+        "highest": 4
+    },
+    {
+        "hand": "J5T5J",
+        "bet": "639",
+        "highest": 4
+    },
+    {
+        "hand": "J5AAA",
+        "bet": "756",
+        "highest": 4
+    },
+    {
+        "hand": "J6662",
+        "bet": "64",
+        "highest": 4
+    },
+    {
+        "hand": "J7977",
+        "bet": "753",
+        "highest": 4
+    },
+    {
+        "hand": "J8333",
+        "bet": "730",
+        "highest": 4
+    },
+    {
+        "hand": "JK2J2",
+        "bet": "740",
+        "highest": 4
+    },
+    {
+        "hand": "JAQQQ",
+        "bet": "620",
+        "highest": 4
+    },
+    {
+        "hand": "2JJJ9",
+        "bet": "32",
+        "highest": 4
+    },
+    {
+        "hand": "2JJ33",
+        "bet": "736",
+        "highest": 4
+    },
+    {
+        "hand": "2J27J",
+        "bet": "834",
+        "highest": 4
+    },
+    {
+        "hand": "2JQQQ",
+        "bet": "572",
+        "highest": 4
+    },
+    {
+        "hand": "2222Q",
+        "bet": "541",
+        "highest": 4
+    },
+    {
+        "hand": "2222K",
+        "bet": "31",
+        "highest": 4
+    },
+    {
+        "hand": "22242",
+        "bet": "567",
+        "highest": 4
+    },
+    {
+        "hand": "22722",
+        "bet": "955",
+        "highest": 4
+    },
+    {
+        "hand": "228J2",
+        "bet": "918",
+        "highest": 4
+    },
+    {
+        "hand": "22922",
+        "bet": "720",
+        "highest": 4
+    },
+    {
+        "hand": "288J8",
+        "bet": "522",
+        "highest": 4
+    },
+    {
+        "hand": "2QJ22",
+        "bet": "690",
+        "highest": 4
+    },
+    {
+        "hand": "2AAAA",
+        "bet": "719",
+        "highest": 4
+    },
+    {
+        "hand": "3J222",
+        "bet": "167",
+        "highest": 4
+    },
+    {
+        "hand": "3J3JQ",
+        "bet": "675",
+        "highest": 4
+    },
+    {
+        "hand": "33J37",
+        "bet": "503",
+        "highest": 4
+    },
+    {
+        "hand": "33336",
+        "bet": "530",
+        "highest": 4
+    },
+    {
+        "hand": "33393",
+        "bet": "384",
+        "highest": 4
+    },
+    {
+        "hand": "333T3",
+        "bet": "406",
+        "highest": 4
+    },
+    {
+        "hand": "35555",
+        "bet": "88",
+        "highest": 4
+    },
+    {
+        "hand": "37777",
+        "bet": "549",
+        "highest": 4
+    },
+    {
+        "hand": "3TTTT",
+        "bet": "226",
+        "highest": 4
+    },
+    {
+        "hand": "4JJKK",
+        "bet": "292",
+        "highest": 4
+    },
+    {
+        "hand": "4JA44",
+        "bet": "821",
+        "highest": 4
+    },
+    {
+        "hand": "44J42",
+        "bet": "36",
+        "highest": 4
+    },
+    {
+        "hand": "443J4",
+        "bet": "337",
+        "highest": 4
+    },
+    {
+        "hand": "444J7",
+        "bet": "950",
+        "highest": 4
+    },
+    {
+        "hand": "44424",
+        "bet": "862",
+        "highest": 4
+    },
+    {
+        "hand": "44449",
+        "bet": "217",
+        "highest": 4
+    },
+    {
+        "hand": "44464",
+        "bet": "50",
+        "highest": 4
+    },
+    {
+        "hand": "44474",
+        "bet": "587",
+        "highest": 4
+    },
+    {
+        "hand": "44484",
+        "bet": "979",
+        "highest": 4
+    },
+    {
+        "hand": "444TJ",
+        "bet": "614",
+        "highest": 4
+    },
+    {
+        "hand": "49999",
+        "bet": "527",
+        "highest": 4
+    },
+    {
+        "hand": "4A444",
+        "bet": "239",
+        "highest": 4
+    },
+    {
+        "hand": "4AAAJ",
+        "bet": "668",
+        "highest": 4
+    },
+    {
+        "hand": "5J3J3",
+        "bet": "773",
+        "highest": 4
+    },
+    {
+        "hand": "5J557",
+        "bet": "714",
+        "highest": 4
+    },
+    {
+        "hand": "52222",
+        "bet": "450",
+        "highest": 4
+    },
+    {
+        "hand": "55J25",
+        "bet": "505",
+        "highest": 4
+    },
+    {
+        "hand": "55J58",
+        "bet": "370",
+        "highest": 4
+    },
+    {
+        "hand": "55552",
+        "bet": "545",
+        "highest": 4
+    },
+    {
+        "hand": "55554",
+        "bet": "470",
+        "highest": 4
+    },
+    {
+        "hand": "55585",
+        "bet": "98",
+        "highest": 4
+    },
+    {
+        "hand": "55595",
+        "bet": "934",
+        "highest": 4
+    },
+    {
+        "hand": "55655",
+        "bet": "647",
+        "highest": 4
+    },
+    {
+        "hand": "55A55",
+        "bet": "372",
+        "highest": 4
+    },
+    {
+        "hand": "57555",
+        "bet": "924",
+        "highest": 4
+    },
+    {
+        "hand": "59J99",
+        "bet": "177",
+        "highest": 4
+    },
+    {
+        "hand": "5A55J",
+        "bet": "444",
+        "highest": 4
+    },
+    {
+        "hand": "6JJ62",
+        "bet": "13",
+        "highest": 4
+    },
+    {
+        "hand": "6J566",
+        "bet": "123",
+        "highest": 4
+    },
+    {
+        "hand": "6J669",
+        "bet": "511",
+        "highest": 4
+    },
+    {
+        "hand": "6222J",
+        "bet": "850",
+        "highest": 4
+    },
+    {
+        "hand": "62222",
+        "bet": "395",
+        "highest": 4
+    },
+    {
+        "hand": "63666",
+        "bet": "181",
+        "highest": 4
+    },
+    {
+        "hand": "6466J",
+        "bet": "610",
+        "highest": 4
+    },
+    {
+        "hand": "64666",
+        "bet": "579",
+        "highest": 4
+    },
+    {
+        "hand": "66JQ6",
+        "bet": "831",
+        "highest": 4
+    },
+    {
+        "hand": "66566",
+        "bet": "554",
+        "highest": 4
+    },
+    {
+        "hand": "66662",
+        "bet": "945",
+        "highest": 4
+    },
+    {
+        "hand": "66668",
+        "bet": "189",
+        "highest": 4
+    },
+    {
+        "hand": "6676J",
+        "bet": "635",
+        "highest": 4
+    },
+    {
+        "hand": "66KJ6",
+        "bet": "978",
+        "highest": 4
+    },
+    {
+        "hand": "6TTTT",
+        "bet": "243",
+        "highest": 4
+    },
+    {
+        "hand": "6QQQQ",
+        "bet": "723",
+        "highest": 4
+    },
+    {
+        "hand": "6A66J",
+        "bet": "840",
+        "highest": 4
+    },
+    {
+        "hand": "72J77",
+        "bet": "409",
+        "highest": 4
+    },
+    {
+        "hand": "75777",
+        "bet": "321",
+        "highest": 4
+    },
+    {
+        "hand": "77776",
+        "bet": "507",
+        "highest": 4
+    },
+    {
+        "hand": "77779",
+        "bet": "905",
+        "highest": 4
+    },
+    {
+        "hand": "77787",
+        "bet": "364",
+        "highest": 4
+    },
+    {
+        "hand": "777Q7",
+        "bet": "672",
+        "highest": 4
+    },
+    {
+        "hand": "77AJJ",
+        "bet": "896",
+        "highest": 4
+    },
+    {
+        "hand": "8J488",
+        "bet": "415",
+        "highest": 4
+    },
+    {
+        "hand": "8J777",
+        "bet": "313",
+        "highest": 4
+    },
+    {
+        "hand": "8J8QJ",
+        "bet": "458",
+        "highest": 4
+    },
+    {
+        "hand": "83333",
+        "bet": "345",
+        "highest": 4
+    },
+    {
+        "hand": "88488",
+        "bet": "298",
+        "highest": 4
+    },
+    {
+        "hand": "885JJ",
+        "bet": "297",
+        "highest": 4
+    },
+    {
+        "hand": "88588",
+        "bet": "858",
+        "highest": 4
+    },
+    {
+        "hand": "88788",
+        "bet": "593",
+        "highest": 4
+    },
+    {
+        "hand": "88882",
+        "bet": "632",
+        "highest": 4
+    },
+    {
+        "hand": "8888A",
+        "bet": "200",
+        "highest": 4
+    },
+    {
+        "hand": "88Q8J",
+        "bet": "473",
+        "highest": 4
+    },
+    {
+        "hand": "8TTTJ",
+        "bet": "785",
+        "highest": 4
+    },
+    {
+        "hand": "8QQJJ",
+        "bet": "964",
+        "highest": 4
+    },
+    {
+        "hand": "8K88J",
+        "bet": "81",
+        "highest": 4
+    },
+    {
+        "hand": "8AAAA",
+        "bet": "379",
+        "highest": 4
+    },
+    {
+        "hand": "9J5J9",
+        "bet": "876",
+        "highest": 4
+    },
+    {
+        "hand": "9JKJ9",
+        "bet": "889",
+        "highest": 4
+    },
+    {
+        "hand": "95999",
+        "bet": "992",
+        "highest": 4
+    },
+    {
+        "hand": "96JJ9",
+        "bet": "692",
+        "highest": 4
+    },
+    {
+        "hand": "97J7J",
+        "bet": "713",
+        "highest": 4
+    },
+    {
+        "hand": "98888",
+        "bet": "613",
+        "highest": 4
+    },
+    {
+        "hand": "99J92",
+        "bet": "653",
+        "highest": 4
+    },
+    {
+        "hand": "99399",
+        "bet": "776",
+        "highest": 4
+    },
+    {
+        "hand": "99899",
+        "bet": "795",
+        "highest": 4
+    },
+    {
+        "hand": "99969",
+        "bet": "594",
+        "highest": 4
+    },
+    {
+        "hand": "9999Q",
+        "bet": "314",
+        "highest": 4
+    },
+    {
+        "hand": "9999A",
+        "bet": "687",
+        "highest": 4
+    },
+    {
+        "hand": "99K99",
+        "bet": "387",
+        "highest": 4
+    },
+    {
+        "hand": "TJATT",
+        "bet": "117",
+        "highest": 4
+    },
+    {
+        "hand": "T2TJT",
+        "bet": "390",
+        "highest": 4
+    },
+    {
+        "hand": "T55J5",
+        "bet": "404",
+        "highest": 4
+    },
+    {
+        "hand": "T5555",
+        "bet": "475",
+        "highest": 4
+    },
+    {
+        "hand": "T9TTJ",
+        "bet": "880",
+        "highest": 4
+    },
+    {
+        "hand": "TTJQT",
+        "bet": "268",
+        "highest": 4
+    },
+    {
+        "hand": "TT9TT",
+        "bet": "764",
+        "highest": 4
+    },
+    {
+        "hand": "TTTJ7",
+        "bet": "446",
+        "highest": 4
+    },
+    {
+        "hand": "TTT4T",
+        "bet": "498",
+        "highest": 4
+    },
+    {
+        "hand": "TTT7T",
+        "bet": "165",
+        "highest": 4
+    },
+    {
+        "hand": "TTTT2",
+        "bet": "920",
+        "highest": 4
+    },
+    {
+        "hand": "TKKKK",
+        "bet": "726",
+        "highest": 4
+    },
+    {
+        "hand": "Q5QQQ",
+        "bet": "40",
+        "highest": 4
+    },
+    {
+        "hand": "QQJ6Q",
+        "bet": "847",
+        "highest": 4
+    },
+    {
+        "hand": "QQ2QQ",
+        "bet": "73",
+        "highest": 4
+    },
+    {
+        "hand": "QQTQQ",
+        "bet": "323",
+        "highest": 4
+    },
+    {
+        "hand": "QQQJ3",
+        "bet": "125",
+        "highest": 4
+    },
+    {
+        "hand": "QQQ3Q",
+        "bet": "874",
+        "highest": 4
+    },
+    {
+        "hand": "QQQ9Q",
+        "bet": "688",
+        "highest": 4
+    },
+    {
+        "hand": "QQQQ4",
+        "bet": "164",
+        "highest": 4
+    },
+    {
+        "hand": "QQQQ8",
+        "bet": "267",
+        "highest": 4
+    },
+    {
+        "hand": "K6KJK",
+        "bet": "750",
+        "highest": 4
+    },
+    {
+        "hand": "K777J",
+        "bet": "698",
+        "highest": 4
+    },
+    {
+        "hand": "K8888",
+        "bet": "115",
+        "highest": 4
+    },
+    {
+        "hand": "K9J99",
+        "bet": "832",
+        "highest": 4
+    },
+    {
+        "hand": "KKJK3",
+        "bet": "510",
+        "highest": 4
+    },
+    {
+        "hand": "KK7KK",
+        "bet": "588",
+        "highest": 4
+    },
+    {
+        "hand": "KKK3K",
+        "bet": "483",
+        "highest": 4
+    },
+    {
+        "hand": "KKK5K",
+        "bet": "744",
+        "highest": 4
+    },
+    {
+        "hand": "KKKQK",
+        "bet": "319",
+        "highest": 4
+    },
+    {
+        "hand": "KKKK2",
+        "bet": "134",
+        "highest": 4
+    },
+    {
+        "hand": "KKKK6",
+        "bet": "836",
+        "highest": 4
+    },
+    {
+        "hand": "KKKK9",
+        "bet": "47",
+        "highest": 4
+    },
+    {
+        "hand": "KKKAJ",
+        "bet": "257",
+        "highest": 4
+    },
+    {
+        "hand": "AJJ9A",
+        "bet": "550",
+        "highest": 4
+    },
+    {
+        "hand": "AJQJQ",
+        "bet": "755",
+        "highest": 4
+    },
+    {
+        "hand": "A22J2",
+        "bet": "171",
+        "highest": 4
+    },
+    {
+        "hand": "A3333",
+        "bet": "118",
+        "highest": 4
+    },
+    {
+        "hand": "A6AAA",
+        "bet": "797",
+        "highest": 4
+    },
+    {
+        "hand": "A77J7",
+        "bet": "487",
+        "highest": 4
+    },
+    {
+        "hand": "A7777",
+        "bet": "331",
+        "highest": 4
+    },
+    {
+        "hand": "A8AAJ",
+        "bet": "515",
+        "highest": 4
+    },
+    {
+        "hand": "ATAAA",
+        "bet": "178",
+        "highest": 4
+    },
+    {
+        "hand": "AKAAA",
+        "bet": "879",
+        "highest": 4
+    },
+    {
+        "hand": "AAJA3",
+        "bet": "484",
+        "highest": 4
+    },
+    {
+        "hand": "AAJA7",
+        "bet": "206",
+        "highest": 4
+    },
+    {
+        "hand": "AAAJ2",
+        "bet": "16",
+        "highest": 4
+    },
+    {
+        "hand": "AAA9A",
+        "bet": "399",
+        "highest": 4
+    },
+    {
+        "hand": "AAAA5",
+        "bet": "75",
+        "highest": 4
+    },
+    {
+        "hand": "AAAA7",
+        "bet": "357",
+        "highest": 4
+    },
+    {
+        "hand": "JJJJJ",
+        "bet": "90",
+        "highest": 5
+    },
+    {
+        "hand": "JJJJ8",
+        "bet": "451",
+        "highest": 5
+    },
+    {
+        "hand": "JJJAA",
+        "bet": "116",
+        "highest": 5
+    },
+    {
+        "hand": "JJ222",
+        "bet": "218",
+        "highest": 5
+    },
+    {
+        "hand": "JJ777",
+        "bet": "143",
+        "highest": 5
+    },
+    {
+        "hand": "JJTJT",
+        "bet": "667",
+        "highest": 5
+    },
+    {
+        "hand": "J3333",
+        "bet": "424",
+        "highest": 5
+    },
+    {
+        "hand": "J4J44",
+        "bet": "440",
+        "highest": 5
+    },
+    {
+        "hand": "J6JJ6",
+        "bet": "777",
+        "highest": 5
+    },
+    {
+        "hand": "J66J6",
+        "bet": "754",
+        "highest": 5
+    },
+    {
+        "hand": "J6666",
+        "bet": "548",
+        "highest": 5
+    },
+    {
+        "hand": "J7777",
+        "bet": "57",
+        "highest": 5
+    },
+    {
+        "hand": "J888J",
+        "bet": "439",
+        "highest": 5
+    },
+    {
+        "hand": "J8888",
+        "bet": "276",
+        "highest": 5
+    },
+    {
+        "hand": "J99JJ",
+        "bet": "344",
+        "highest": 5
+    },
+    {
+        "hand": "JQJQQ",
+        "bet": "564",
+        "highest": 5
+    },
+    {
+        "hand": "JKKJK",
+        "bet": "779",
+        "highest": 5
+    },
+    {
+        "hand": "222J2",
+        "bet": "396",
+        "highest": 5
+    },
+    {
+        "hand": "333JJ",
+        "bet": "677",
+        "highest": 5
+    },
+    {
+        "hand": "4J444",
+        "bet": "457",
+        "highest": 5
+    },
+    {
+        "hand": "5JJ55",
+        "bet": "461",
+        "highest": 5
+    },
+    {
+        "hand": "5555J",
+        "bet": "770",
+        "highest": 5
+    },
+    {
+        "hand": "99J99",
+        "bet": "78",
+        "highest": 5
+    },
+    {
+        "hand": "TTJJT",
+        "bet": "39",
+        "highest": 5
+    },
+    {
+        "hand": "TTJTT",
+        "bet": "341",
+        "highest": 5
+    },
+    {
+        "hand": "QQQQJ",
+        "bet": "105",
+        "highest": 5
+    },
+    {
+        "hand": "KJKKK",
+        "bet": "340",
+        "highest": 5
+    },
+    {
+        "hand": "AJAJA",
+        "bet": "670",
+        "highest": 5
+    },
+    {
+        "hand": "AJAAA",
+        "bet": "652",
+        "highest": 5
+    }
+]
