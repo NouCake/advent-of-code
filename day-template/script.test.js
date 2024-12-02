@@ -1,62 +1,32 @@
 import fs from 'fs'
 
-const { compareHands, getCardValue, parseHand, compareHighestCard } = require("./script")
+const dayNum = 5;
+const path = './2024/day-' + dayNum;
 
-describe("Day5 Script", () => {
+const example = fs.readFileSync(path + '/example.txt', 'utf8');
+const input = fs.readFileSync(path + '/input.txt', 'utf8');
+
+
+describe("Day "+dayNum+" Script", () => {
+
+    it("star1 example", () => {
+        const result = "skibidi(example)";
+        expect(result).toBe(11);
+    })
 
     it("star1", () => {
-        const input = fs.readFileSync('./day-7/input.txt', 'utf8')
-        const lines = input.split("\n")
-
-        const hands = lines.map(e => e.split(" "[0]))
-        console.log(hands.sort(compareHands))
+        const result = "skibidi(input)";
+        console.log(result)
     })
 
-    it("parses", () => {
-        expect(parseHand("33322")).toEqual([3, 2])
-        expect(parseHand("32332")).toEqual([3, 2])
-        expect(parseHand("22333")).toEqual([3, 2])
-        expect(parseHand("23332")).toEqual([3, 2])
-        expect(parseHand("33223")).toEqual([3, 2])
+    it("star2 example", () => {
+        const result = "skibidi2(example)";
+        expect(result).toBe(31);
     })
 
-    it("compares highest card", () => {
-        expect(compareHighestCard("A2222", "K2222")).toBeGreaterThan(0)
-        expect(compareHighestCard("K2222", "A2222")).toBeLessThan(0)
-        
-        expect(compareHighestCard("2222A", "2222K")).toBeGreaterThan(0)
-        expect(compareHighestCard("2222K", "2222A")).toBeLessThan(0)
+    it("star2", () => {
+        const result = "skibidi2(input)";
+        console.log(result)
     })
 
-    it("compares hand", () => {
-        expect(compareHighestCard("A2222", "K2222")).toBeGreaterThan(0)
-        expect(compareHighestCard("K2222", "A2222")).toBeLessThan(0)
-        
-        expect(compareHighestCard("2222A", "2222K")).toBeGreaterThan(0)
-        expect(compareHighestCard("2222K", "2222A")).toBeLessThan(0)
-
-        expect(compareHighestCard("32T3K", "T55J5")).toBeLessThan(0)
-    })
-
-    it("calculates the power", () => {
-        const input = "32T3K"
-
-        expect(compareHands("32T3K", "T55J5")).toBeLessThan(0)
-    })
-
-    it("calcualtes card value", () => {
-        expect(getCardValue("2")).toBe(2)
-        expect(getCardValue("3")).toBe(3)
-        expect(getCardValue("4")).toBe(4)
-        expect(getCardValue("5")).toBe(5)
-        expect(getCardValue("6")).toBe(6)
-        expect(getCardValue("7")).toBe(7)
-        expect(getCardValue("8")).toBe(8)
-        expect(getCardValue("9")).toBe(9)
-        expect(getCardValue("T")).toBe(10)
-        expect(getCardValue("J")).toBe(11)
-        expect(getCardValue("Q")).toBe(12)
-        expect(getCardValue("K")).toBe(13)
-        expect(getCardValue("A")).toBe(14)
-    });
 })
