@@ -1,13 +1,12 @@
 import fs from 'fs'
 
-const dayNum = 5;
-const path = './2024/day-' + dayNum;
+const path = './2024/day-X';
 
 const example = fs.readFileSync(path + '/example.txt', 'utf8');
 const input = fs.readFileSync(path + '/input.txt', 'utf8');
 
 
-describe("Day "+dayNum+" Script", () => {
+describe("Day X Script", () => {
 
     it("star1 example", () => {
         const result = "skibidi(example)";
