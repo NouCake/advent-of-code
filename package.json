@@ -14,5 +14,8 @@
     "@types/jest": "^29.5.10",
     "jest": "^29.7.0"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "mathjs": "^14.0.1"
+  }
 }
