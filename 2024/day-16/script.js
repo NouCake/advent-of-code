@@ -75,27 +75,30 @@ export function rotationsFromDirection(current, target) {
     return num % 2;
 }
 
-export function findShortestPath({paths, start, end}) {
-    const startIndex = paths.findIndex(path => path == start);
+export function findShortestPath({paths, start, end}, rotationCost = 1000) {
+    const startIndex = paths.findIndex(path => path.x == start.x && path.y == start.y);
     const toCheck = new PriorityQueue();
-    const visited = {};
-    visited[startIndex] = {cost: 0, rotation: {x: 1, y: 0}};
+    const visited = new Set([startIndex]);
     toCheck.enqueue({ 
         curIndex: startIndex, 
         curRotation: {x: 1, y: 0}, 
-        path: [startIndex], 
+        path: [], 
         cost: 0 
     }, 0);
 
+    let loop = 0;
     while(toCheck.size() > 0) {
         const cur = toCheck.dequeue().node;
         const curTile = paths[cur.curIndex];
         if (curTile.x == end.x && curTile.y == end.y) {
             return [cur];
         }
+        if(loop++ > 200) {
+            //console.log(printPath(cur.path.map(e => paths[e])))
+        }
         const neighbours = findNeighbourPaths(paths, curTile);
         neighbours.forEach(neighbourIndex => {
-            if(paths[neighbourIndex].x == curTile.x - cur.curRotation.x && paths[neighbourIndex].y == curTile.y - cur.curRotation.y) {
+            if(visited.has(neighbourIndex)) {
                 return;
             }
             const next = copy(cur);
@@ -104,15 +107,11 @@ export function findShortestPath({paths, start, end}) {
             next.path.push(next.curIndex);
             next.cost += 1;
             next.curRotation = {x: nextTile.x - curTile.x, y: nextTile.y - curTile.y};
-            next.cost += 1000 * rotationsFromDirection(cur.curRotation, next.curRotation);
+            visited.add(next.curIndex);
 
-            if(visited[neighbourIndex] !== undefined && next.cost > visited[neighbourIndex].cost + rotationsFromDirection(next.curRotation, visited[neighbourIndex].rotation) * 1000) {
-                //console.log(printPath(cur.path.map(e => paths[e])))
-                return;
-            }
+
             toCheck.enqueue(next, next.cost);
         });
-        visited[cur.curIndex] = {cost: cur.cost, rotation: cur.curRotation};
     }
 }
 
@@ -133,9 +132,6 @@ export function findShortestPathBBAA({paths, start, end}, maxCost) {
     let loop = 0;
     while(toCheck.size() > 0) {
         const cur = toCheck.dequeue().node;
-        if(loop++ % 10000 == 9999) {
-            console.log(cur.cost)
-        }
         const curTile = paths[cur.curIndex];
         if (curTile.x == end.x && curTile.y == end.y) {
             bestpaths.push(cur);
@@ -160,7 +156,7 @@ export function findShortestPathBBAA({paths, start, end}, maxCost) {
             if(next.cost > maxCost) {
                 return;
             }
-            toCheck.enqueue(next, next.cost);
+            toCheck.enqueue(next, next.path.length);
         });
         bbVis[cur.curIndex] = {cost: cur.cost, rotation: cur.curRotation};
     }
@@ -177,13 +173,15 @@ function copy(cur) {
     }
 }
 
-export function printPath(path) {
-    const maxX = path.reduce((agg, cur) => cur.x > agg ? cur.x : agg, 0)
-    const maxY = path.reduce((agg, cur) => cur.y > agg ? cur.y : agg, 0)
+export function printPath(path, walls = []) {
+    const maxX = [...path, ...walls].reduce((agg, cur) => cur.x > agg ? cur.x : agg, 0)
+    const maxY = [...path, ...walls].reduce((agg, cur) => cur.y > agg ? cur.y : agg, 0)
     let str = "";
     for(let y = 0; y <= maxY; y++) {
         for(let x = 0; x <= maxX; x++) {
             if(path.find(p => p.x == x && p.y == y)) {
+                str += "O"
+            } else if(walls.find(p => p.x == x && p.y == y)) {
                 str += "#"
             } else {
                 str += ".";
